@@ -1,0 +1,3976 @@
+[
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "Not a very fruitful one though – I’ve only found two – both from before 2012.",
+        "matched_sentence": "One is the infamous Wolfe Island bird carnage (all reports are fully listed on the company’s site), and the other is for the Harrow project, but it’s posted here on OWR… so that doesn’t really count as a brownie point for the wind company.",
+        "next_sentence": "That’s all I can find but if anyone else can point out some more – please share.",
+        "seq.in": "One is the infamous Wolfe Island bird carnage ( all reports are fully listed on the company ’ s site ) , and the other is for the Harrow project , but it ’ s posted here on OWR … so that doesn ’ t really count as a brownie point for the wind company .",
+        "seq.out": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-idiom I-idiom O O O O O",
+        "seq.pos": "CD VBZ DT JJ NNP NNP NN NN ( DT NNS VBP RB VBN IN DT NN NNP NNP NN ) , CC DT JJ VBZ IN DT NNP NN , CC PRP VBZ RB VBN RB IN NNP NNP IN DT NN NNP NN RB VB IN DT NN NN IN DT NN NN .",
+        "cos_sim_prev_matched": 0.8462880849838257,
+        "cos_sim_matched_next": 0.7990302443504333
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "One is the infamous Wolfe Island bird carnage (all reports are fully listed on the company’s site), and the other is for the Harrow project, but it’s posted here on OWR… so that doesn’t really count as a brownie point for the wind company.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "one",
+        "is",
+        "the",
+        "infamous",
+        "wolfe",
+        "island",
+        "bird",
+        "carnage",
+        "all",
+        "reports",
+        "are",
+        "fully",
+        "listed",
+        "on",
+        "the",
+        "company",
+        "’",
+        "s",
+        "site",
+        "and",
+        "the",
+        "other",
+        "is",
+        "for",
+        "the",
+        "harrow",
+        "project",
+        "but",
+        "it",
+        "’",
+        "s",
+        "posted",
+        "here",
+        "on",
+        "ow",
+        "##r",
+        "…",
+        "so",
+        "that",
+        "doesn",
+        "’",
+        "t",
+        "really",
+        "count",
+        "as",
+        "a",
+        "brown",
+        "##ie",
+        "point",
+        "for",
+        "the",
+        "wind",
+        "company"
+      ],
+      "idiom_token_span": [
+        46,
+        47,
+        48
+      ],
+      "sentence_token_count": 53,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.8679,
+      "cosine_similarity_phrase_sentence": 0.7325833439826965,
+      "cosine_similarity_phrase_minus_phrase": 0.6975537538528442,
+      "cosine_similarity_delta": 0.035029590129852295,
+      "cosine_similarity_phrase_left": 0.6908063292503357,
+      "cosine_similarity_phrase_right": 0.7464683651924133,
+      "cosine_similarity_phrase_local": 0.7905445694923401,
+      "contrast_delta_left": 0.04177701473236084,
+      "contrast_delta_right": -0.013885021209716797,
+      "idiomaticity_score_composite": 0.024487793445587158,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 111424
+    },
+    "line_index": 111424
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "The staffs were apologetic that they gave me free champagne to make up for it =O HAHA.",
+        "matched_sentence": "This definitely cooked up some brownie point on my side 😀 So 20 minutes later, we were ushered to the bar counter, which in fact was a very very good place cos the guy took very good care of us.",
+        "next_sentence": "Okay, I shall let the pictures do the talking!",
+        "seq.in": "This definitely cooked up some brownie point on my side 😀 So 20 minutes later , we were ushered to the bar counter , which in fact was a very very good place cos the guy took very good care of us .",
+        "seq.out": "O O O O O B-idiom I-idiom O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O",
+        "seq.pos": "DT RB VBN RP DT NN NN IN PRP$ NN NNP NNP CD NNS RB , PRP VBD VBN TO DT NN NN , WDT IN NN VBD DT RB RB JJ NN VBP DT NN VBD RB JJ NN IN PRP .",
+        "cos_sim_prev_matched": 0.7724153399467468,
+        "cos_sim_matched_next": 0.7384545803070068
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "This definitely cooked up some brownie point on my side 😀 So 20 minutes later, we were ushered to the bar counter, which in fact was a very very good place cos the guy took very good care of us.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "this",
+        "definitely",
+        "cooked",
+        "up",
+        "some",
+        "brown",
+        "##ie",
+        "point",
+        "on",
+        "my",
+        "side",
+        "[UNK]",
+        "so",
+        "20",
+        "minutes",
+        "later",
+        "we",
+        "were",
+        "ushered",
+        "to",
+        "the",
+        "bar",
+        "counter",
+        "which",
+        "in",
+        "fact",
+        "was",
+        "a",
+        "very",
+        "very",
+        "good",
+        "place",
+        "co",
+        "##s",
+        "the",
+        "guy",
+        "took",
+        "very",
+        "good",
+        "care",
+        "of",
+        "us"
+      ],
+      "idiom_token_span": [
+        5,
+        6,
+        7
+      ],
+      "sentence_token_count": 42,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.119,
+      "cosine_similarity_phrase_sentence": 0.7379333972930908,
+      "cosine_similarity_phrase_minus_phrase": 0.6889668703079224,
+      "cosine_similarity_delta": 0.04896652698516846,
+      "cosine_similarity_phrase_left": 0.775566577911377,
+      "cosine_similarity_phrase_right": 0.7809662222862244,
+      "cosine_similarity_phrase_local": 0.8271879553794861,
+      "contrast_delta_left": -0.03763318061828613,
+      "contrast_delta_right": -0.043032824993133545,
+      "idiomaticity_score_composite": 0.004316762089729309,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 2575567
+    },
+    "line_index": 2575567
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "And whilst on the subject of tools, the showing of The Toolbox Murders features restored footage of a woman being terrorised with a nail gun.",
+        "matched_sentence": "Zone Horror and Zone Thriller have also scored brownie point with their uncut versions of Fair Game (otherwise known as Mamba), Freeway and Puppet Master.",
+        "next_sentence": "This is all good stuff, particularly as Ofcom, the TV regulator has published a programme code saying that UK TV channels should only broadcast films in the version approved by the film censor.",
+        "seq.in": "Zone Horror and Zone Thriller have also scored brownie point with their uncut versions of Fair Game ( otherwise known as Mamba ) , Freeway and Puppet Master .",
+        "seq.out": "O O O O O O O O B-idiom I-idiom O O O O O B-idiom I-idiom O O O O O O O O O O O O",
+        "seq.pos": "NNP NNP CC NNP NNP VBP RB VBN NN NN IN PRP$ JJ NNS IN NNP NNP ( RB VBN IN NNP ) , NNP CC NNP NNP .",
+        "cos_sim_prev_matched": 0.7594754099845886,
+        "cos_sim_matched_next": 0.709859311580658
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "Zone Horror and Zone Thriller have also scored brownie point with their uncut versions of Fair Game (otherwise known as Mamba), Freeway and Puppet Master.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "zone",
+        "horror",
+        "and",
+        "zone",
+        "thriller",
+        "have",
+        "also",
+        "scored",
+        "brown",
+        "##ie",
+        "point",
+        "with",
+        "their",
+        "un",
+        "##cut",
+        "versions",
+        "of",
+        "fair",
+        "game",
+        "otherwise",
+        "known",
+        "as",
+        "ma",
+        "##mba",
+        "freeway",
+        "and",
+        "puppet",
+        "master"
+      ],
+      "idiom_token_span": [
+        8,
+        9,
+        10
+      ],
+      "sentence_token_count": 28,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.2857,
+      "cosine_similarity_phrase_sentence": 0.6875196695327759,
+      "cosine_similarity_phrase_minus_phrase": 0.6078000664710999,
+      "cosine_similarity_delta": 0.07971960306167603,
+      "cosine_similarity_phrase_left": 0.5500058531761169,
+      "cosine_similarity_phrase_right": 0.6505489349365234,
+      "cosine_similarity_phrase_local": 0.6482944488525391,
+      "contrast_delta_left": 0.13751381635665894,
+      "contrast_delta_right": 0.03697073459625244,
+      "idiomaticity_score_composite": 0.08348093926906586,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 2824944
+    },
+    "line_index": 2824944
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "Physical abuse, verbal abuse, no room to move, pushing, shoving and more grief than a man should suffer.",
+        "matched_sentence": "No, not an AFA Cup match, but a day of shopping and brownie point garnering because of no league game.",
+        "next_sentence": "Hopefully, just like Christmas, shopping comes but once a year.",
+        "seq.in": "No , not an AFA Cup match , but a day of shopping and brownie point garnering because of no league game .",
+        "seq.out": "O O O O O O O O O O O O O O B-idiom I-idiom O O O O O O O",
+        "seq.pos": "DT , RB DT NNP NNP NN , CC DT NN IN NN CC NN NN NN IN IN DT NN NN .",
+        "cos_sim_prev_matched": 0.7418648600578308,
+        "cos_sim_matched_next": 0.727762758731842
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "No, not an AFA Cup match, but a day of shopping and brownie point garnering because of no league game.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "no",
+        "not",
+        "an",
+        "af",
+        "##a",
+        "cup",
+        "match",
+        "but",
+        "a",
+        "day",
+        "of",
+        "shopping",
+        "and",
+        "brown",
+        "##ie",
+        "point",
+        "garner",
+        "##ing",
+        "because",
+        "of",
+        "no",
+        "league",
+        "game"
+      ],
+      "idiom_token_span": [
+        13,
+        14,
+        15
+      ],
+      "sentence_token_count": 23,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.5652,
+      "cosine_similarity_phrase_sentence": 0.8315364718437195,
+      "cosine_similarity_phrase_minus_phrase": 0.7741992473602295,
+      "cosine_similarity_delta": 0.05733722448348999,
+      "cosine_similarity_phrase_left": 0.702212393283844,
+      "cosine_similarity_phrase_right": 0.7781205177307129,
+      "cosine_similarity_phrase_local": 0.8040987253189087,
+      "contrast_delta_left": 0.1293240785598755,
+      "contrast_delta_right": 0.05341595411300659,
+      "idiomaticity_score_composite": 0.07435362040996552,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 372585
+    },
+    "line_index": 372585
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "But this is a best-in-the-world game; good isn't close to good enough.",
+        "matched_sentence": "Different doesn't even get you a brownie point.",
+        "next_sentence": "It's results that count and you have to be brutally honest - if it doesn't work: can it.",
+        "seq.in": "Different doesn ' t even get you a brownie point .",
+        "seq.out": "O O O O O O O O B-idiom I-idiom O",
+        "seq.pos": "NNP NN '' NNS RB VBP PRP DT JJ NN .",
+        "cos_sim_prev_matched": 0.7679839134216309,
+        "cos_sim_matched_next": 0.7302650213241577
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "Different doesn't even get you a brownie point.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "different",
+        "doesn",
+        "##t",
+        "even",
+        "get",
+        "you",
+        "a",
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "idiom_token_span": [
+        7,
+        8,
+        9
+      ],
+      "sentence_token_count": 10,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.7,
+      "cosine_similarity_phrase_sentence": 0.7984950542449951,
+      "cosine_similarity_phrase_minus_phrase": 0.5928071141242981,
+      "cosine_similarity_delta": 0.20568794012069702,
+      "cosine_similarity_phrase_left": 0.5528942942619324,
+      "cosine_similarity_phrase_right": 0.4887237846851349,
+      "cosine_similarity_phrase_local": 0.6177180409431458,
+      "contrast_delta_left": 0.24560075998306274,
+      "contrast_delta_right": 0.30977126955986023,
+      "idiomaticity_score_composite": 0.24168697744607925,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 388632
+    },
+    "line_index": 388632
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "What a treat it would be to receive one of your goodies.",
+        "matched_sentence": "If I send a plate your way would that get me a brownie point?",
+        "next_sentence": ": ) I look forward to a few of your on- line classes.",
+        "seq.in": "If I send a plate your way would that get me a brownie point ?",
+        "seq.out": "O O O O O O O O O O O O B-idiom I-idiom O",
+        "seq.pos": "IN PRP VBP DT NN PRP$ NN MD WDT VB PRP DT NN NN .",
+        "cos_sim_prev_matched": 0.740707516670227,
+        "cos_sim_matched_next": 0.6524555683135986
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "If I send a plate your way would that get me a brownie point?",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "if",
+        "i",
+        "send",
+        "a",
+        "plate",
+        "your",
+        "way",
+        "would",
+        "that",
+        "get",
+        "me",
+        "a",
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "idiom_token_span": [
+        12,
+        13,
+        14
+      ],
+      "sentence_token_count": 15,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.8,
+      "cosine_similarity_phrase_sentence": 0.8129273653030396,
+      "cosine_similarity_phrase_minus_phrase": 0.7062169313430786,
+      "cosine_similarity_delta": 0.10671043395996094,
+      "cosine_similarity_phrase_left": 0.6474030017852783,
+      "cosine_similarity_phrase_right": 0.4879054129123688,
+      "cosine_similarity_phrase_local": 0.6860746145248413,
+      "contrast_delta_left": 0.16552436351776123,
+      "contrast_delta_right": 0.3250219523906708,
+      "idiomaticity_score_composite": 0.17599179595708847,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 3103895
+    },
+    "line_index": 3103895
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "Therefore domestic home front disturbances and interference must be kept to a minimum or better still, not tolerated at all.",
+        "matched_sentence": "Forget Brownie point-ometers, these are from 1990s and they don’t work.",
+        "next_sentence": "The modern renaissance man must be master of all within his realm.",
+        "seq.in": "Forget Brownie point - ometers , these are from 1990s and they don ’ t work .",
+        "seq.out": "O B-idiom I-idiom O O O O O O O O O O O O O O",
+        "seq.pos": "NNP NNP NN : NNS , DT VBP IN CD CC PRP VBP JJ NN NN .",
+        "cos_sim_prev_matched": 0.679624080657959,
+        "cos_sim_matched_next": 0.6376553177833557
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "Forget Brownie point-ometers, these are from 1990s and they don’t work.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "forget",
+        "brown",
+        "##ie",
+        "point",
+        "##ometer",
+        "##s",
+        "these",
+        "are",
+        "from",
+        "1990s",
+        "and",
+        "they",
+        "don",
+        "’",
+        "t",
+        "work"
+      ],
+      "idiom_token_span": [
+        1,
+        2,
+        3
+      ],
+      "sentence_token_count": 16,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.0625,
+      "cosine_similarity_phrase_sentence": 0.7776878476142883,
+      "cosine_similarity_phrase_minus_phrase": 0.6750940084457397,
+      "cosine_similarity_delta": 0.10259383916854858,
+      "cosine_similarity_phrase_left": 0.5048636198043823,
+      "cosine_similarity_phrase_right": 0.5988501906394958,
+      "cosine_similarity_phrase_local": 0.6459999084472656,
+      "contrast_delta_left": 0.272824227809906,
+      "contrast_delta_right": 0.17883765697479248,
+      "idiomaticity_score_composite": 0.1642123907804489,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 3182434
+    },
+    "line_index": 3182434
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "This could be a minus point for some folks, but I have an older cradle which I have used.",
+        "matched_sentence": "The included battery packs make this win a brownie point over the other Chinese manufacturers, who have not included batteries along with the units.",
+        "next_sentence": "On top of that, the battery packs are rechargeable as well.",
+        "seq.in": "The included battery packs make this win a brownie point over the other Chinese manufacturers , who have not included batteries along with the units .",
+        "seq.out": "O O O O O O O O B-idiom I-idiom O O O O O O O O O O O O O O O O",
+        "seq.pos": "DT JJ NN NNS VBP DT VBZ DT NN NN IN DT JJ JJ NNS , WP VBP RB VBN NNS IN IN DT NNS .",
+        "cos_sim_prev_matched": 0.7664200067520142,
+        "cos_sim_matched_next": 0.7503052353858948
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "The included battery packs make this win a brownie point over the other Chinese manufacturers, who have not included batteries along with the units.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "the",
+        "included",
+        "battery",
+        "packs",
+        "make",
+        "this",
+        "win",
+        "a",
+        "brown",
+        "##ie",
+        "point",
+        "over",
+        "the",
+        "other",
+        "chinese",
+        "manufacturers",
+        "who",
+        "have",
+        "not",
+        "included",
+        "batteries",
+        "along",
+        "with",
+        "the",
+        "units"
+      ],
+      "idiom_token_span": [
+        8,
+        9,
+        10
+      ],
+      "sentence_token_count": 25,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.32,
+      "cosine_similarity_phrase_sentence": 0.7128494381904602,
+      "cosine_similarity_phrase_minus_phrase": 0.6300752758979797,
+      "cosine_similarity_delta": 0.08277416229248047,
+      "cosine_similarity_phrase_left": 0.6723294258117676,
+      "cosine_similarity_phrase_right": 0.7032043933868408,
+      "cosine_similarity_phrase_local": 0.7466046810150146,
+      "contrast_delta_left": 0.04052001237869263,
+      "contrast_delta_right": 0.009645044803619385,
+      "idiomaticity_score_composite": 0.05392834544181824,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 1822760
+    },
+    "line_index": 1822760
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "Everybody has a little score.",
+        "matched_sentence": "So if somebody says thanks, Arsalan and mentions you in the chat room then you’ll get a brownie point.",
+        "next_sentence": "The brownie points aren’t useful for anything other than bragging power.",
+        "seq.in": "So if somebody says thanks , Arsalan and mentions you in the chat room then you ’ ll get a brownie point .",
+        "seq.out": "O O O O O O O O O O O O O O O O O O O O B-idiom I-idiom O",
+        "seq.pos": "RB IN NN VBZ NNS , NNP CC NNS PRP IN DT NN NN RB PRP VBP JJ VB DT NN NN .",
+        "cos_sim_prev_matched": 0.7406250238418579,
+        "cos_sim_matched_next": 0.7949345111846924
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "So if somebody says thanks, Arsalan and mentions you in the chat room then you’ll get a brownie point.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "so",
+        "if",
+        "somebody",
+        "says",
+        "thanks",
+        "ars",
+        "##ala",
+        "##n",
+        "and",
+        "mentions",
+        "you",
+        "in",
+        "the",
+        "chat",
+        "room",
+        "then",
+        "you",
+        "’",
+        "ll",
+        "get",
+        "a",
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "idiom_token_span": [
+        21,
+        22,
+        23
+      ],
+      "sentence_token_count": 24,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.875,
+      "cosine_similarity_phrase_sentence": 0.7421119809150696,
+      "cosine_similarity_phrase_minus_phrase": 0.6528376936912537,
+      "cosine_similarity_delta": 0.08927428722381592,
+      "cosine_similarity_phrase_left": 0.5833520293235779,
+      "cosine_similarity_phrase_right": 0.47291189432144165,
+      "cosine_similarity_phrase_local": 0.6396817564964294,
+      "contrast_delta_left": 0.1587599515914917,
+      "contrast_delta_right": 0.26920008659362793,
+      "idiomaticity_score_composite": 0.15162715315818787,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 1882147
+    },
+    "line_index": 1882147
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "The terms of the loan also carry a grace period of 10 years for repayment, demonstrating how intrinsically close the Japanese have become in uplifting India’s infrastructure.",
+        "matched_sentence": "In a major brownie point to PM Modi, Shinzo Abe stood solidly with India on the issue of Pakistan-sponsored terrorism.",
+        "next_sentence": "The Japanese side, for the first time, referred to Pakistan-Based terror outfits in the joint statement.",
+        "seq.in": "In a major brownie point to PM Modi , Shinzo Abe stood solidly with India on the issue of Pakistan - sponsored terrorism .",
+        "seq.out": "O O O B-idiom I-idiom O O O O O O O O O O O O O O O O O O O",
+        "seq.pos": "IN DT JJ NN NN TO NNP NNP , NNP NNP VBD RB IN NNP IN DT NN IN NNP : VBD NN .",
+        "cos_sim_prev_matched": 0.7800441980361938,
+        "cos_sim_matched_next": 0.8203027248382568
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "In a major brownie point to PM Modi, Shinzo Abe stood solidly with India on the issue of Pakistan-sponsored terrorism.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "in",
+        "a",
+        "major",
+        "brown",
+        "##ie",
+        "point",
+        "to",
+        "pm",
+        "mod",
+        "##i",
+        "shin",
+        "##zo",
+        "abe",
+        "stood",
+        "solid",
+        "##ly",
+        "with",
+        "india",
+        "on",
+        "the",
+        "issue",
+        "of",
+        "pakistan",
+        "##sp",
+        "##ons",
+        "##ored",
+        "terrorism"
+      ],
+      "idiom_token_span": [
+        3,
+        4,
+        5
+      ],
+      "sentence_token_count": 27,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.1111,
+      "cosine_similarity_phrase_sentence": 0.7911972999572754,
+      "cosine_similarity_phrase_minus_phrase": 0.725178599357605,
+      "cosine_similarity_delta": 0.06601870059967041,
+      "cosine_similarity_phrase_left": 0.7057543396949768,
+      "cosine_similarity_phrase_right": 0.6940588355064392,
+      "cosine_similarity_phrase_local": 0.7650436162948608,
+      "contrast_delta_left": 0.08544296026229858,
+      "contrast_delta_right": 0.09713846445083618,
+      "idiomaticity_score_composite": 0.0786547064781189,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 3329880
+    },
+    "line_index": 3329880
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "Apparently, this wonderful project was sparked off by Librarian of Congress, James H. Billington, who proposed the establishment of a World Digital Library in a speech to the U.S. National Commission for UNESCO in June 2005.",
+        "matched_sentence": "Even Google gave some money towards the project (that’s a brownie point to Google from me).",
+        "next_sentence": "Go here to browse the WDL by item type.",
+        "seq.in": "Even Google gave some money towards the project ( that ’ s a brownie point to Google from me ) .",
+        "seq.out": "O O O O O O O O O O O O O B-idiom I-idiom O O O O O O",
+        "seq.pos": "RB NNP VBD DT NN IN DT NN ( IN VBZ VB DT NN NN TO NNP IN PRP ) .",
+        "cos_sim_prev_matched": 0.8043628931045532,
+        "cos_sim_matched_next": 0.7221859693527222
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "Even Google gave some money towards the project (that’s a brownie point to Google from me).",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "even",
+        "google",
+        "gave",
+        "some",
+        "money",
+        "towards",
+        "the",
+        "project",
+        "that",
+        "’",
+        "s",
+        "a",
+        "brown",
+        "##ie",
+        "point",
+        "to",
+        "google",
+        "from",
+        "me"
+      ],
+      "idiom_token_span": [
+        12,
+        13,
+        14
+      ],
+      "sentence_token_count": 19,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.6316,
+      "cosine_similarity_phrase_sentence": 0.786496639251709,
+      "cosine_similarity_phrase_minus_phrase": 0.6978281736373901,
+      "cosine_similarity_delta": 0.08866846561431885,
+      "cosine_similarity_phrase_left": 0.6394276022911072,
+      "cosine_similarity_phrase_right": 0.6649547815322876,
+      "cosine_similarity_phrase_local": 0.7162680625915527,
+      "contrast_delta_left": 0.1470690369606018,
+      "contrast_delta_right": 0.12154185771942139,
+      "idiomaticity_score_composite": 0.11148695647716522,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 1198244
+    },
+    "line_index": 1198244
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "It comes emblazoned with a belt clip holder at the back that gives you the option of manipulating the position of your iPhone in accordance to your requirements and convenience.",
+        "matched_sentence": "The pouch also earns many a brownie point for its durability.",
+        "next_sentence": "The convenience factor is also enhanced by the fact that the case is light and handy, and is easy to carry.",
+        "seq.in": "The pouch also earns many a brownie point for its durability .",
+        "seq.out": "O O O O O O B-idiom I-idiom O O O O",
+        "seq.pos": "DT NN RB VBZ JJ DT JJ NN IN PRP$ NN .",
+        "cos_sim_prev_matched": 0.7340666055679321,
+        "cos_sim_matched_next": 0.7602964639663696
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "The pouch also earns many a brownie point for its durability.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "the",
+        "pouch",
+        "also",
+        "earn",
+        "##s",
+        "many",
+        "a",
+        "brown",
+        "##ie",
+        "point",
+        "for",
+        "its",
+        "du",
+        "##ra",
+        "##bility"
+      ],
+      "idiom_token_span": [
+        7,
+        8,
+        9
+      ],
+      "sentence_token_count": 15,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.4667,
+      "cosine_similarity_phrase_sentence": 0.8317840695381165,
+      "cosine_similarity_phrase_minus_phrase": 0.7321982383728027,
+      "cosine_similarity_delta": 0.09958583116531372,
+      "cosine_similarity_phrase_left": 0.6923605799674988,
+      "cosine_similarity_phrase_right": 0.6858918070793152,
+      "cosine_similarity_phrase_local": 0.7536900043487549,
+      "contrast_delta_left": 0.13942348957061768,
+      "contrast_delta_right": 0.14589226245880127,
+      "idiomaticity_score_composite": 0.1211218535900116,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 3957573
+    },
+    "line_index": 3957573
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "If you know who it belongs to, please tell me and I will gladly give credit!",
+        "matched_sentence": "My students can earn a Brownie Point when everyone in the class has turned in their homework, when their caught being great, AND when they receive a compliment from a teacher (that's my secret to being fabulous in the hallway) :)\nIf the pan is filled up by the end of the day on Friday, my students earn Fun Friday with is an extra 10 minutes of recess before they go home.",
+        "next_sentence": "I love focusing on the positive behavior within my classroom and have found that it works for me.",
+        "seq.in": "My students can earn a Brownie Point when everyone in the class has turned in their homework , when their caught being great , AND when they receive a compliment from a teacher ( that ' s my secret to being fabulous in the hallway ) : ) If the pan is filled up by the end of the day on Friday , my students earn Fun Friday with is an extra 10 minutes of recess before they go home .",
+        "seq.out": "O O O O O B-idiom I-idiom O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O",
+        "seq.pos": "PRP$ NNS MD VB DT NNP NNP WRB NN IN DT NN VBZ VBN IN PRP$ NN , WRB PRP$ NN VBG JJ , CC WRB PRP VBP DT NN IN DT NN ( IN '' JJ PRP$ JJ TO VBG JJ IN DT NN ) : ) IN DT NN VBZ VBN RP IN DT NN IN DT NN IN NNP , PRP$ NNS VBP NNP NNP IN VBZ DT JJ CD NNS IN NN IN PRP VBP NN .",
+        "cos_sim_prev_matched": 0.6425997018814087,
+        "cos_sim_matched_next": 0.7578429579734802
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "My students can earn a Brownie Point when everyone in the class has turned in their homework, when their caught being great, AND when they receive a compliment from a teacher (that's my secret to being fabulous in the hallway) :)\nIf the pan is filled up by the end of the day on Friday, my students earn Fun Friday with is an extra 10 minutes of recess before they go home.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "my",
+        "students",
+        "can",
+        "earn",
+        "a",
+        "brown",
+        "##ie",
+        "point",
+        "when",
+        "everyone",
+        "in",
+        "the",
+        "class",
+        "has",
+        "turned",
+        "in",
+        "their",
+        "homework",
+        "when",
+        "their",
+        "caught",
+        "being",
+        "great",
+        "and",
+        "when",
+        "they",
+        "receive",
+        "a",
+        "compliment",
+        "from",
+        "a",
+        "teacher",
+        "that",
+        "##s",
+        "my",
+        "secret",
+        "to",
+        "being",
+        "fabulous",
+        "in",
+        "the",
+        "hallway",
+        "if",
+        "the",
+        "pan",
+        "is",
+        "filled",
+        "up",
+        "by",
+        "the",
+        "end",
+        "of",
+        "the",
+        "day",
+        "on",
+        "friday",
+        "my",
+        "students",
+        "earn",
+        "fun",
+        "friday",
+        "with",
+        "is",
+        "an",
+        "extra",
+        "10",
+        "minutes",
+        "of",
+        "recess",
+        "before",
+        "they",
+        "go",
+        "home"
+      ],
+      "idiom_token_span": [
+        5,
+        6,
+        7
+      ],
+      "sentence_token_count": 73,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.0685,
+      "cosine_similarity_phrase_sentence": 0.724761426448822,
+      "cosine_similarity_phrase_minus_phrase": 0.697905957698822,
+      "cosine_similarity_delta": 0.02685546875,
+      "cosine_similarity_phrase_left": 0.6387835741043091,
+      "cosine_similarity_phrase_right": 0.6838268637657166,
+      "cosine_similarity_phrase_local": 0.7251373529434204,
+      "contrast_delta_left": 0.08597785234451294,
+      "contrast_delta_right": 0.04093456268310547,
+      "idiomaticity_score_composite": 0.0451558381319046,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 468026
+    },
+    "line_index": 468026
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "I’ve done it, and it’s not the highest motive.",
+        "matched_sentence": "Witnessing can be an act of brownie point collection: “Look, I tried to share the gospel.",
+        "next_sentence": "Yay me!” That’s not a common motive though, and I think we all recognize its inferiority.",
+        "seq.in": "Witnessing can be an act of brownie point collection : “ Look , I tried to share the gospel .",
+        "seq.out": "O O O O O O B-idiom I-idiom O O O O O O O O O O O O",
+        "seq.pos": "VBG MD VB DT NN IN JJ NN NN : JJ NNP , PRP VBD TO NN DT NN .",
+        "cos_sim_prev_matched": 0.7619720697402954,
+        "cos_sim_matched_next": 0.8217908143997192
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "Witnessing can be an act of brownie point collection: “Look, I tried to share the gospel.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "witnessing",
+        "can",
+        "be",
+        "an",
+        "act",
+        "of",
+        "brown",
+        "##ie",
+        "point",
+        "collection",
+        "“",
+        "look",
+        "i",
+        "tried",
+        "to",
+        "share",
+        "the",
+        "gospel"
+      ],
+      "idiom_token_span": [
+        6,
+        7,
+        8
+      ],
+      "sentence_token_count": 18,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.3333,
+      "cosine_similarity_phrase_sentence": 0.817448079586029,
+      "cosine_similarity_phrase_minus_phrase": 0.7448450922966003,
+      "cosine_similarity_delta": 0.07260298728942871,
+      "cosine_similarity_phrase_left": 0.7279874682426453,
+      "cosine_similarity_phrase_right": 0.7635766863822937,
+      "cosine_similarity_phrase_local": 0.8050192594528198,
+      "contrast_delta_left": 0.08946061134338379,
+      "contrast_delta_right": 0.05387139320373535,
+      "idiomaticity_score_composite": 0.07213449478149414,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 4124104
+    },
+    "line_index": 4124104
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "It was the right move!",
+        "matched_sentence": "She has raved about ever since, lots of brownie point on this one.",
+        "next_sentence": "She is constantly calling me to the kitchen to show me what she can do with.",
+        "seq.in": "She has raved about ever since , lots of brownie point on this one .",
+        "seq.out": "O O O O O O O O O B-idiom I-idiom O O O O",
+        "seq.pos": "PRP VBZ VBN IN RB IN , NNS IN NN NN IN DT CD .",
+        "cos_sim_prev_matched": 0.5960713028907776,
+        "cos_sim_matched_next": 0.7260045409202576
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "She has raved about ever since, lots of brownie point on this one.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "she",
+        "has",
+        "rave",
+        "##d",
+        "about",
+        "ever",
+        "since",
+        "lots",
+        "of",
+        "brown",
+        "##ie",
+        "point",
+        "on",
+        "this",
+        "one"
+      ],
+      "idiom_token_span": [
+        9,
+        10,
+        11
+      ],
+      "sentence_token_count": 15,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.6,
+      "cosine_similarity_phrase_sentence": 0.8055662512779236,
+      "cosine_similarity_phrase_minus_phrase": 0.7014252543449402,
+      "cosine_similarity_delta": 0.1041409969329834,
+      "cosine_similarity_phrase_left": 0.5661518573760986,
+      "cosine_similarity_phrase_right": 0.7120879292488098,
+      "cosine_similarity_phrase_local": 0.7109512090682983,
+      "contrast_delta_left": 0.23941439390182495,
+      "contrast_delta_right": 0.09347832202911377,
+      "idiomaticity_score_composite": 0.13529367744922638,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 1214654
+    },
+    "line_index": 1214654
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "The melody is dull as hell and the harmonies are even worse.",
+        "matched_sentence": "But a few quirky beeps and rhythms they subtly add in deserves a Brownie point or two.",
+        "next_sentence": "I used to be very impressed with this song, but I don't find anything particularly special about it.",
+        "seq.in": "But a few quirky beeps and rhythms they subtly add in deserves a Brownie point or two .",
+        "seq.out": "O O O O O O O O O O O O O B-idiom I-idiom O O O",
+        "seq.pos": "CC DT JJ JJ NNS CC NN PRP RB VBP IN NNS DT NNP NN CC CD .",
+        "cos_sim_prev_matched": 0.715714693069458,
+        "cos_sim_matched_next": 0.6492578387260437
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "But a few quirky beeps and rhythms they subtly add in deserves a Brownie point or two.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "but",
+        "a",
+        "few",
+        "qui",
+        "##rky",
+        "bee",
+        "##ps",
+        "and",
+        "rhythms",
+        "they",
+        "subtly",
+        "add",
+        "in",
+        "deserves",
+        "a",
+        "brown",
+        "##ie",
+        "point",
+        "or",
+        "two"
+      ],
+      "idiom_token_span": [
+        15,
+        16,
+        17
+      ],
+      "sentence_token_count": 20,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.75,
+      "cosine_similarity_phrase_sentence": 0.7865440249443054,
+      "cosine_similarity_phrase_minus_phrase": 0.6996926665306091,
+      "cosine_similarity_delta": 0.08685135841369629,
+      "cosine_similarity_phrase_left": 0.611896812915802,
+      "cosine_similarity_phrase_right": 0.7270717024803162,
+      "cosine_similarity_phrase_local": 0.7575012445449829,
+      "contrast_delta_left": 0.17464721202850342,
+      "contrast_delta_right": 0.05947232246398926,
+      "idiomaticity_score_composite": 0.10195556282997131,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 4539126
+    },
+    "line_index": 4539126
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "GDPR training will be a critical factor that can help organisations if they ever find themselves in that position.",
+        "matched_sentence": "Trained staff prepped for a data breach is a brownie point in favour of the organisation, for sure.",
+        "next_sentence": "While external audits and software solutions can help your organisation ensure that you stay GDPR compliant, there is really no replacement for GDPR training of the staff.",
+        "seq.in": "Trained staff prepped for a data breach is a brownie point in favour of the organisation , for sure .",
+        "seq.out": "O O O O O O O O O B-idiom I-idiom O O O O O O O O O",
+        "seq.pos": "JJ NN VBD IN DT NN NN VBZ DT JJ NN IN NN IN DT NN , IN JJ .",
+        "cos_sim_prev_matched": 0.8406869173049927,
+        "cos_sim_matched_next": 0.8349002003669739
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "Trained staff prepped for a data breach is a brownie point in favour of the organisation, for sure.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "trained",
+        "staff",
+        "prep",
+        "##ped",
+        "for",
+        "a",
+        "data",
+        "breach",
+        "is",
+        "a",
+        "brown",
+        "##ie",
+        "point",
+        "in",
+        "favour",
+        "of",
+        "the",
+        "organisation",
+        "for",
+        "sure"
+      ],
+      "idiom_token_span": [
+        10,
+        11,
+        12
+      ],
+      "sentence_token_count": 20,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.5,
+      "cosine_similarity_phrase_sentence": 0.7788525819778442,
+      "cosine_similarity_phrase_minus_phrase": 0.6905727386474609,
+      "cosine_similarity_delta": 0.0882798433303833,
+      "cosine_similarity_phrase_left": 0.5721275210380554,
+      "cosine_similarity_phrase_right": 0.7344648838043213,
+      "cosine_similarity_phrase_local": 0.7484204173088074,
+      "contrast_delta_left": 0.20672506093978882,
+      "contrast_delta_right": 0.04438769817352295,
+      "idiomaticity_score_composite": 0.10691811144351959,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 4548262
+    },
+    "line_index": 4548262
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "The decor is a classic take.",
+        "matched_sentence": "It is gorgeous with warm interiors and elegant couches\nThe brownie point would go for the view of the queen’s necklace which is gorgeous .",
+        "next_sentence": "You should sit in the balcony and just get yourself a drink.",
+        "seq.in": "It is gorgeous with warm interiors and elegant couches The brownie point would go for the view of the queen ’ s necklace which is gorgeous .",
+        "seq.out": "O O O O O O O O O O B-idiom I-idiom O O O O O O O O O O O O O O O",
+        "seq.pos": "PRP VBZ JJ IN JJ NNS CC JJ NNS DT NN NN MD VB IN DT NN IN DT JJ NNP NN NN WDT VBZ JJ .",
+        "cos_sim_prev_matched": 0.7512955665588379,
+        "cos_sim_matched_next": 0.6698637008666992
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "It is gorgeous with warm interiors and elegant couches\nThe brownie point would go for the view of the queen’s necklace which is gorgeous .",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "it",
+        "is",
+        "gorgeous",
+        "with",
+        "warm",
+        "interiors",
+        "and",
+        "elegant",
+        "couch",
+        "##es",
+        "the",
+        "brown",
+        "##ie",
+        "point",
+        "would",
+        "go",
+        "for",
+        "the",
+        "view",
+        "of",
+        "the",
+        "queen",
+        "’",
+        "s",
+        "necklace",
+        "which",
+        "is",
+        "gorgeous"
+      ],
+      "idiom_token_span": [
+        11,
+        12,
+        13
+      ],
+      "sentence_token_count": 28,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.3929,
+      "cosine_similarity_phrase_sentence": 0.7719843983650208,
+      "cosine_similarity_phrase_minus_phrase": 0.7148655652999878,
+      "cosine_similarity_delta": 0.05711883306503296,
+      "cosine_similarity_phrase_left": 0.577785313129425,
+      "cosine_similarity_phrase_right": 0.7310649156570435,
+      "cosine_similarity_phrase_local": 0.7572068572044373,
+      "contrast_delta_left": 0.1941990852355957,
+      "contrast_delta_right": 0.040919482707977295,
+      "idiomaticity_score_composite": 0.08733905851840973,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 4586884
+    },
+    "line_index": 4586884
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "The first participant to complete all levels or have maximum points on the 11th of Feb 2018, Sunday by 10:00 AM (GMT +530) will win.",
+        "matched_sentence": "The first team to solve and submit the correct flag for each level will be awarded 1 extra brownie point.",
+        "next_sentence": "(e.g.",
+        "seq.in": "The first team to solve and submit the correct flag for each level will be awarded 1 extra brownie point .",
+        "seq.out": "O O O O O O O O O O O O O O O O O O B-idiom I-idiom O",
+        "seq.pos": "DT JJ NN TO VB CC VB DT JJ NN IN DT NN MD VB VBN CD JJ NN NN .",
+        "cos_sim_prev_matched": 0.8174138069152832,
+        "cos_sim_matched_next": 0.4860643446445465
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "The first team to solve and submit the correct flag for each level will be awarded 1 extra brownie point.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "the",
+        "first",
+        "team",
+        "to",
+        "solve",
+        "and",
+        "submit",
+        "the",
+        "correct",
+        "flag",
+        "for",
+        "each",
+        "level",
+        "will",
+        "be",
+        "awarded",
+        "1",
+        "extra",
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "idiom_token_span": [
+        18,
+        19,
+        20
+      ],
+      "sentence_token_count": 21,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.8571,
+      "cosine_similarity_phrase_sentence": 0.688865065574646,
+      "cosine_similarity_phrase_minus_phrase": 0.5894700884819031,
+      "cosine_similarity_delta": 0.09939497709274292,
+      "cosine_similarity_phrase_left": 0.5881505012512207,
+      "cosine_similarity_phrase_right": 0.5122299194335938,
+      "cosine_similarity_phrase_local": 0.6400778293609619,
+      "contrast_delta_left": 0.10071456432342529,
+      "contrast_delta_right": 0.17663514614105225,
+      "idiomaticity_score_composite": 0.11903491616249084,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 4842536
+    },
+    "line_index": 4842536
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "I see reservation for bridging gap of inequality – so if a Brahmin boy is very poor a chance for his upliftment should also be considered.",
+        "matched_sentence": "Keywords are – upliftment and bridging the gap of inequality – Not scoring political brownie point.",
+        "next_sentence": "Do markets have morals?",
+        "seq.in": "Keywords are – upliftment and bridging the gap of inequality – Not scoring political brownie point .",
+        "seq.out": "O O O O O O O O O O O O O O B-idiom I-idiom O",
+        "seq.pos": "NNS VBP JJ JJ CC VBG DT NN IN NN NNP RB VBG JJ NN NN .",
+        "cos_sim_prev_matched": 0.854945719242096,
+        "cos_sim_matched_next": 0.691075325012207
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "Keywords are – upliftment and bridging the gap of inequality – Not scoring political brownie point.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "key",
+        "##words",
+        "are",
+        "–",
+        "up",
+        "##lift",
+        "##ment",
+        "and",
+        "br",
+        "##id",
+        "##ging",
+        "the",
+        "gap",
+        "of",
+        "inequality",
+        "–",
+        "not",
+        "scoring",
+        "political",
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "idiom_token_span": [
+        19,
+        20,
+        21
+      ],
+      "sentence_token_count": 22,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.8636,
+      "cosine_similarity_phrase_sentence": 0.7905110716819763,
+      "cosine_similarity_phrase_minus_phrase": 0.7207532525062561,
+      "cosine_similarity_delta": 0.06975781917572021,
+      "cosine_similarity_phrase_left": 0.6898571252822876,
+      "cosine_similarity_phrase_right": 0.5610891580581665,
+      "cosine_similarity_phrase_local": 0.7304487228393555,
+      "contrast_delta_left": 0.10065394639968872,
+      "contrast_delta_right": 0.22942191362380981,
+      "idiomaticity_score_composite": 0.11739787459373474,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 4884748
+    },
+    "line_index": 4884748
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "So there!",
+        "matched_sentence": "The book wins a big brownie point for just that.",
+        "next_sentence": "The narration was perfect.",
+        "seq.in": "The book wins a big brownie point for just that .",
+        "seq.out": "O O O O O B-idiom I-idiom O O O O",
+        "seq.pos": "DT NN VBZ DT JJ NN NN IN RB DT .",
+        "cos_sim_prev_matched": 0.4522887170314789,
+        "cos_sim_matched_next": 0.6832365989685059
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "The book wins a big brownie point for just that.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "the",
+        "book",
+        "wins",
+        "a",
+        "big",
+        "brown",
+        "##ie",
+        "point",
+        "for",
+        "just",
+        "that"
+      ],
+      "idiom_token_span": [
+        5,
+        6,
+        7
+      ],
+      "sentence_token_count": 11,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.4545,
+      "cosine_similarity_phrase_sentence": 0.847642183303833,
+      "cosine_similarity_phrase_minus_phrase": 0.7172489762306213,
+      "cosine_similarity_delta": 0.13039320707321167,
+      "cosine_similarity_phrase_left": 0.7199125289916992,
+      "cosine_similarity_phrase_right": 0.6581968665122986,
+      "cosine_similarity_phrase_local": 0.7439759969711304,
+      "contrast_delta_left": 0.1277296543121338,
+      "contrast_delta_right": 0.18944531679153442,
+      "idiomaticity_score_composite": 0.1444903463125229,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 4936434
+    },
+    "line_index": 4936434
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "It is sure to trick you into feeling hydrated for at least 5-6 hours.",
+        "matched_sentence": "There’s another brownie point.",
+        "next_sentence": "Every girl yearns to spend hours of quality time with her spouse on this day.",
+        "seq.in": "There ’ s another brownie point .",
+        "seq.out": "O O O O B-idiom I-idiom O",
+        "seq.pos": "EX NNP NN DT NN NN .",
+        "cos_sim_prev_matched": 0.5868176221847534,
+        "cos_sim_matched_next": 0.57912278175354
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "There’s another brownie point.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "there",
+        "’",
+        "s",
+        "another",
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "idiom_token_span": [
+        4,
+        5,
+        6
+      ],
+      "sentence_token_count": 7,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.5714,
+      "cosine_similarity_phrase_sentence": 0.8612701892852783,
+      "cosine_similarity_phrase_minus_phrase": 0.6465238332748413,
+      "cosine_similarity_delta": 0.214746356010437,
+      "cosine_similarity_phrase_left": 0.5728002190589905,
+      "cosine_similarity_phrase_right": 0.47949516773223877,
+      "cosine_similarity_phrase_local": 0.6304157972335815,
+      "contrast_delta_left": 0.28846997022628784,
+      "contrast_delta_right": 0.38177502155303955,
+      "idiomaticity_score_composite": 0.27493442595005035,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 4952192
+    },
+    "line_index": 4952192
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "The packaging has a tube based sponge application.",
+        "matched_sentence": "The sponge has been protected by antimicrobial systems, so this concealer has scored another brownie point with concealers.",
+        "next_sentence": "It is easy to blend and one can avert the chances of developing a caked up look.",
+        "seq.in": "The sponge has been protected by antimicrobial systems , so this concealer has scored another brownie point with concealers .",
+        "seq.out": "O O O O O O O O O O O O O O O B-idiom I-idiom O O O",
+        "seq.pos": "DT NN VBZ VBN VBN IN JJ NNS , IN DT NN VBZ VBN DT NN NN IN NNS .",
+        "cos_sim_prev_matched": 0.7793211340904236,
+        "cos_sim_matched_next": 0.7825087308883667
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "The sponge has been protected by antimicrobial systems, so this concealer has scored another brownie point with concealers.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "the",
+        "sponge",
+        "has",
+        "been",
+        "protected",
+        "by",
+        "anti",
+        "##mic",
+        "##ro",
+        "##bial",
+        "systems",
+        "so",
+        "this",
+        "conceal",
+        "##er",
+        "has",
+        "scored",
+        "another",
+        "brown",
+        "##ie",
+        "point",
+        "with",
+        "conceal",
+        "##ers"
+      ],
+      "idiom_token_span": [
+        18,
+        19,
+        20
+      ],
+      "sentence_token_count": 24,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.75,
+      "cosine_similarity_phrase_sentence": 0.7595941424369812,
+      "cosine_similarity_phrase_minus_phrase": 0.6861026883125305,
+      "cosine_similarity_delta": 0.07349145412445068,
+      "cosine_similarity_phrase_left": 0.7247607707977295,
+      "cosine_similarity_phrase_right": 0.7277436852455139,
+      "cosine_similarity_phrase_local": 0.7753985524177551,
+      "contrast_delta_left": 0.03483337163925171,
+      "contrast_delta_right": 0.031850457191467285,
+      "idiomaticity_score_composite": 0.05341668426990509,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 537178
+    },
+    "line_index": 537178
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "Isn't that nice?",
+        "matched_sentence": "And he knows the names of Pueblo's neighborhoods, too, so I guess that's worth the other half of his brownie point.",
+        "next_sentence": "Andrew McLachlan has 26 years experience with PPD, which should speak for itself.",
+        "seq.in": "And he knows the names of Pueblo ' s neighborhoods , too , so I guess that ' s worth the other half of his brownie point .",
+        "seq.out": "O O O O O O O O O O O O O O O O O O O O O O O O O B-idiom I-idiom O",
+        "seq.pos": "CC PRP VBZ DT NNS IN NNP POS NN NNS , RB , IN PRP VBP IN '' JJ IN DT JJ NN IN PRP$ NN NN .",
+        "cos_sim_prev_matched": 0.5676785707473755,
+        "cos_sim_matched_next": 0.6973428130149841
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "And he knows the names of Pueblo's neighborhoods, too, so I guess that's worth the other half of his brownie point.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "and",
+        "he",
+        "knows",
+        "the",
+        "names",
+        "of",
+        "pueblo",
+        "##s",
+        "neighborhoods",
+        "too",
+        "so",
+        "i",
+        "guess",
+        "that",
+        "##s",
+        "worth",
+        "the",
+        "other",
+        "half",
+        "of",
+        "his",
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "idiom_token_span": [
+        21,
+        22,
+        23
+      ],
+      "sentence_token_count": 24,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.875,
+      "cosine_similarity_phrase_sentence": 0.815345287322998,
+      "cosine_similarity_phrase_minus_phrase": 0.754553496837616,
+      "cosine_similarity_delta": 0.06079179048538208,
+      "cosine_similarity_phrase_left": 0.7200107574462891,
+      "cosine_similarity_phrase_right": 0.5725841522216797,
+      "cosine_similarity_phrase_local": 0.7485675811767578,
+      "contrast_delta_left": 0.09533452987670898,
+      "contrast_delta_right": 0.24276113510131836,
+      "idiomaticity_score_composite": 0.11491981148719788,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 5123045
+    },
+    "line_index": 5123045
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "Don’t gripe to anyone about the upcoming interview at the water-cooler or canteen.",
+        "matched_sentence": "From my own experience, I can tell you that times of reorganization and restructuring tend to make people insecure and you never know who will go behind your back and squeal on you to win a brownie point to keep their own job.",
+        "next_sentence": "The interviewer would be looking at your competencies and skills but also at your soft skill-sets.",
+        "seq.in": "From my own experience , I can tell you that times of reorganization and restructuring tend to make people insecure and you never know who will go behind your back and squeal on you to win a brownie point to keep their own job .",
+        "seq.out": "O O O O O O O O O O O O O O O O O O O O O O O O O O O B-idiom I-idiom I-idiom O O O O O O O B-idiom I-idiom O O O O O O",
+        "seq.pos": "IN PRP$ JJ NN , PRP MD VB PRP IN NNS IN NN CC VBG VBP TO VB NNS NN CC PRP RB VBP WP MD VB IN PRP$ NN CC NN IN PRP TO VB DT NN NN TO VB PRP$ JJ NN .",
+        "cos_sim_prev_matched": 0.7625879049301147,
+        "cos_sim_matched_next": 0.786532461643219
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "From my own experience, I can tell you that times of reorganization and restructuring tend to make people insecure and you never know who will go behind your back and squeal on you to win a brownie point to keep their own job.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "from",
+        "my",
+        "own",
+        "experience",
+        "i",
+        "can",
+        "tell",
+        "you",
+        "that",
+        "times",
+        "of",
+        "reorganization",
+        "and",
+        "restructuring",
+        "tend",
+        "to",
+        "make",
+        "people",
+        "ins",
+        "##ecure",
+        "and",
+        "you",
+        "never",
+        "know",
+        "who",
+        "will",
+        "go",
+        "behind",
+        "your",
+        "back",
+        "and",
+        "sq",
+        "##ue",
+        "##al",
+        "on",
+        "you",
+        "to",
+        "win",
+        "a",
+        "brown",
+        "##ie",
+        "point",
+        "to",
+        "keep",
+        "their",
+        "own",
+        "job"
+      ],
+      "idiom_token_span": [
+        39,
+        40,
+        41
+      ],
+      "sentence_token_count": 47,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.8298,
+      "cosine_similarity_phrase_sentence": 0.7357218265533447,
+      "cosine_similarity_phrase_minus_phrase": 0.6927273869514465,
+      "cosine_similarity_delta": 0.04299443960189819,
+      "cosine_similarity_phrase_left": 0.6547887921333313,
+      "cosine_similarity_phrase_right": 0.6654127836227417,
+      "cosine_similarity_phrase_local": 0.7105664610862732,
+      "contrast_delta_left": 0.08093303442001343,
+      "contrast_delta_right": 0.07030904293060303,
+      "idiomaticity_score_composite": 0.05930773913860321,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 5253040
+    },
+    "line_index": 5253040
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "is a whimsical game of cats who have gateau poker facile a flying aarea to catch birds.",
+        "matched_sentence": "Brownie Point The Chocolate Nut Indian casino fresno area cake delivered on the special occasion of 50 Anniversary of our parents was delicious and indian casino fresno area appreciated by them and relished by all our guest The cakes was ready in time collection on the due gray wolf casino missoula mt and fresh.",
+        "next_sentence": "Roulette chart CommerCity spans a total area of 427,000 square meters inclusive of office spaces and logistics units covering 207,000 square meters; a total leasable area of 176,000 square meters; and infrastructure and parking areas over 220,000 square meters, with 4,000 parking slots for its customers.",
+        "seq.in": "Brownie Point The Chocolate Nut Indian casino fresno area cake delivered on the special occasion of 50 Anniversary of our parents was delicious and indian casino fresno area appreciated by them and relished by all our guest The cakes was ready in time collection on the due gray wolf casino missoula mt and fresh .",
+        "seq.out": "B-idiom I-idiom O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O",
+        "seq.pos": "NNP NNP DT NNP NNP NNP NN JJ NN NN VBN IN DT JJ NN IN CD NNP IN PRP$ NNS VBD JJ CC JJ NN JJ NN VBN IN PRP CC VBN IN DT PRP$ JJS DT NN VBD JJ IN NN NN IN DT JJ JJ NN NN NN NN CC JJ .",
+        "cos_sim_prev_matched": 0.7825676798820496,
+        "cos_sim_matched_next": 0.735081136226654
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "Brownie Point The Chocolate Nut Indian casino fresno area cake delivered on the special occasion of 50 Anniversary of our parents was delicious and indian casino fresno area appreciated by them and relished by all our guest The cakes was ready in time collection on the due gray wolf casino missoula mt and fresh.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "brown",
+        "##ie",
+        "point",
+        "the",
+        "chocolate",
+        "nut",
+        "indian",
+        "casino",
+        "fresno",
+        "area",
+        "cake",
+        "delivered",
+        "on",
+        "the",
+        "special",
+        "occasion",
+        "of",
+        "50",
+        "anniversary",
+        "of",
+        "our",
+        "parents",
+        "was",
+        "delicious",
+        "and",
+        "indian",
+        "casino",
+        "fresno",
+        "area",
+        "appreciated",
+        "by",
+        "them",
+        "and",
+        "re",
+        "##lish",
+        "##ed",
+        "by",
+        "all",
+        "our",
+        "guest",
+        "the",
+        "cakes",
+        "was",
+        "ready",
+        "in",
+        "time",
+        "collection",
+        "on",
+        "the",
+        "due",
+        "gray",
+        "wolf",
+        "casino",
+        "miss",
+        "##ou",
+        "##la",
+        "mt",
+        "and",
+        "fresh"
+      ],
+      "idiom_token_span": [
+        0,
+        1,
+        2
+      ],
+      "sentence_token_count": 59,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.0,
+      "cosine_similarity_phrase_sentence": 0.7046865820884705,
+      "cosine_similarity_phrase_minus_phrase": 0.6748777627944946,
+      "cosine_similarity_delta": 0.02980881929397583,
+      "cosine_similarity_phrase_left": null,
+      "cosine_similarity_phrase_right": 0.7407061457633972,
+      "cosine_similarity_phrase_local": 0.7407061457633972,
+      "contrast_delta_left": null,
+      "contrast_delta_right": -0.03601956367492676,
+      "idiomaticity_score_composite": 0.18207116425037384,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 1341679
+    },
+    "line_index": 1341679
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "Such a delicious brand of nothing you book fairies conjure up 🙂 AND promote your Master too!",
+        "matched_sentence": "Extra fairy brownie points 🙂\nAnd now we will get more pocket money 🙂 🙂 1 extra fairy brownie point can be exchanged to 5 Pound Sterling increase of pocket money per week YES!",
+        "next_sentence": "We now have our own cozy book room with many shelves and even a small desk.",
+        "seq.in": "Extra fairy brownie points 🙂 And now we will get more pocket money 🙂 🙂 1 extra fairy brownie point can be exchanged to 5 Pound Sterling increase of pocket money per week YES !",
+        "seq.out": "O O O O O O O O O O O O O O O O O O B-idiom I-idiom O O O O O O O O O O O O O O O",
+        "seq.pos": "NNP NN NN NNS JJ CC RB PRP MD VB RBR JJ NN NNP VBZ CD JJ NN NN NN MD VB VBN TO CD NNP NNP NN IN NN NN IN NN NN .",
+        "cos_sim_prev_matched": 0.7268887162208557,
+        "cos_sim_matched_next": 0.6580058932304382
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "Extra fairy brownie points 🙂\nAnd now we will get more pocket money 🙂 🙂 1 extra fairy brownie point can be exchanged to 5 Pound Sterling increase of pocket money per week YES!",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "extra",
+        "fairy",
+        "brown",
+        "##ie",
+        "points",
+        "[UNK]",
+        "and",
+        "now",
+        "we",
+        "will",
+        "get",
+        "more",
+        "pocket",
+        "money",
+        "[UNK]",
+        "[UNK]",
+        "1",
+        "extra",
+        "fairy",
+        "brown",
+        "##ie",
+        "point",
+        "can",
+        "be",
+        "exchanged",
+        "to",
+        "5",
+        "pound",
+        "sterling",
+        "increase",
+        "of",
+        "pocket",
+        "money",
+        "per",
+        "week",
+        "yes"
+      ],
+      "idiom_token_span": [
+        19,
+        20,
+        21
+      ],
+      "sentence_token_count": 36,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.5278,
+      "cosine_similarity_phrase_sentence": 0.7725123763084412,
+      "cosine_similarity_phrase_minus_phrase": 0.7268811464309692,
+      "cosine_similarity_delta": 0.045631229877471924,
+      "cosine_similarity_phrase_left": 0.5315656065940857,
+      "cosine_similarity_phrase_right": 0.6145399808883667,
+      "cosine_similarity_phrase_local": 0.6327577829360962,
+      "contrast_delta_left": 0.24094676971435547,
+      "contrast_delta_right": 0.15797239542007446,
+      "idiomaticity_score_composite": 0.12254540622234344,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 5576363
+    },
+    "line_index": 5576363
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "Maybe allow the characters to create defining characteristics for their characters.",
+        "matched_sentence": "Every time they play well on one of these characteristics, they get a brownie point for it (and have some sort of system to allow brownie points to be spent for rerolls or dice boosts).",
+        "next_sentence": "A cool element of Fate is that the brownie points can exchange hands between the players as well, as part of the negotiation process, to grease the wheel, as it were.",
+        "seq.in": "Every time they play well on one of these characteristics , they get a brownie point for it ( and have some sort of system to allow brownie points to be spent for rerolls or dice boosts ) .",
+        "seq.out": "O O O O O O O O O O O O O O B-idiom I-idiom O O O O O O O O O O O O O O O O O O O O O O O",
+        "seq.pos": "DT NN PRP VBP RB IN CD IN DT NNS , PRP VBP DT NN NN IN PRP ( CC VBP DT NN IN NN TO VB NN NNS TO VB VBN IN NNS CC JJ NNS ) .",
+        "cos_sim_prev_matched": 0.7224630117416382,
+        "cos_sim_matched_next": 0.8742308616638184
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "Every time they play well on one of these characteristics, they get a brownie point for it (and have some sort of system to allow brownie points to be spent for rerolls or dice boosts).",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "every",
+        "time",
+        "they",
+        "play",
+        "well",
+        "on",
+        "one",
+        "of",
+        "these",
+        "characteristics",
+        "they",
+        "get",
+        "a",
+        "brown",
+        "##ie",
+        "point",
+        "for",
+        "it",
+        "and",
+        "have",
+        "some",
+        "sort",
+        "of",
+        "system",
+        "to",
+        "allow",
+        "brown",
+        "##ie",
+        "points",
+        "to",
+        "be",
+        "spent",
+        "for",
+        "re",
+        "##roll",
+        "##s",
+        "or",
+        "dice",
+        "boost",
+        "##s"
+      ],
+      "idiom_token_span": [
+        13,
+        14,
+        15
+      ],
+      "sentence_token_count": 40,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.325,
+      "cosine_similarity_phrase_sentence": 0.7970588207244873,
+      "cosine_similarity_phrase_minus_phrase": 0.7611124515533447,
+      "cosine_similarity_delta": 0.03594636917114258,
+      "cosine_similarity_phrase_left": 0.650776207447052,
+      "cosine_similarity_phrase_right": 0.6797992587089539,
+      "cosine_similarity_phrase_local": 0.7261460423469543,
+      "contrast_delta_left": 0.1462826132774353,
+      "contrast_delta_right": 0.11725956201553345,
+      "idiomaticity_score_composite": 0.08385872840881348,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 5768770
+    },
+    "line_index": 5768770
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "An analyst while talking to Precious Kashmir said that BJP pulling out from the government suddenly has embarrassed the PDP.",
+        "matched_sentence": "“The BJP has scored a brownie point over the PDP by pulling out.",
+        "next_sentence": "Had PDP made the move it would have at least saved its face,” he said, adding that “PDP has not even been left with even any facing measure.",
+        "seq.in": "“ The BJP has scored a brownie point over the PDP by pulling out .",
+        "seq.out": "O O O O O O B-idiom I-idiom O O O O O O O",
+        "seq.pos": "IN DT NNP VBZ VBN DT NN NN IN DT NNP IN VBG RP .",
+        "cos_sim_prev_matched": 0.8580513596534729,
+        "cos_sim_matched_next": 0.8091067671775818
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "“The BJP has scored a brownie point over the PDP by pulling out.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "“",
+        "the",
+        "bjp",
+        "has",
+        "scored",
+        "a",
+        "brown",
+        "##ie",
+        "point",
+        "over",
+        "the",
+        "pd",
+        "##p",
+        "by",
+        "pulling",
+        "out"
+      ],
+      "idiom_token_span": [
+        6,
+        7,
+        8
+      ],
+      "sentence_token_count": 16,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.375,
+      "cosine_similarity_phrase_sentence": 0.7769685983657837,
+      "cosine_similarity_phrase_minus_phrase": 0.6650753021240234,
+      "cosine_similarity_delta": 0.11189329624176025,
+      "cosine_similarity_phrase_left": 0.6356135010719299,
+      "cosine_similarity_phrase_right": 0.6729806661605835,
+      "cosine_similarity_phrase_local": 0.7014232873916626,
+      "contrast_delta_left": 0.14135509729385376,
+      "contrast_delta_right": 0.1039879322052002,
+      "idiomaticity_score_composite": 0.11728240549564362,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 677073
+    },
+    "line_index": 677073
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "In this case I have used a combination of frozen blackberries and 2 fresh apples.",
+        "matched_sentence": "One one of my colleagues at work was getting tried of all my frozen blackberries filling up the freezing room at work, so I had to find a way for using these blackberries, while I at the same time could get some brownie point at my colleague, as I baked this cake for him !",
+        "next_sentence": "",
+        "seq.in": "One one of my colleagues at work was getting tried of all my frozen blackberries filling up the freezing room at work , so I had to find a way for using these blackberries , while I at the same time could get some brownie point at my colleague , as I baked this cake for him !",
+        "seq.out": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-idiom I-idiom O O O O O O O O O O O O",
+        "seq.pos": "CD CD IN PRP$ NNS IN NN VBD VBG VBN IN DT PRP$ JJ NNS VBG RP DT NN NN IN NN , IN PRP VBD TO VB DT NN IN VBG DT NNS , IN PRP IN DT JJ NN MD VB DT NN NN IN PRP$ NN , IN PRP VBD DT NN IN PRP .",
+        "cos_sim_prev_matched": 0.8022440075874329,
+        "cos_sim_matched_next": null
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "One one of my colleagues at work was getting tried of all my frozen blackberries filling up the freezing room at work, so I had to find a way for using these blackberries, while I at the same time could get some brownie point at my colleague, as I baked this cake for him !",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "one",
+        "one",
+        "of",
+        "my",
+        "colleagues",
+        "at",
+        "work",
+        "was",
+        "getting",
+        "tried",
+        "of",
+        "all",
+        "my",
+        "frozen",
+        "black",
+        "##berries",
+        "filling",
+        "up",
+        "the",
+        "freezing",
+        "room",
+        "at",
+        "work",
+        "so",
+        "i",
+        "had",
+        "to",
+        "find",
+        "a",
+        "way",
+        "for",
+        "using",
+        "these",
+        "black",
+        "##berries",
+        "while",
+        "i",
+        "at",
+        "the",
+        "same",
+        "time",
+        "could",
+        "get",
+        "some",
+        "brown",
+        "##ie",
+        "point",
+        "at",
+        "my",
+        "colleague",
+        "as",
+        "i",
+        "baked",
+        "this",
+        "cake",
+        "for",
+        "him"
+      ],
+      "idiom_token_span": [
+        44,
+        45,
+        46
+      ],
+      "sentence_token_count": 57,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.7719,
+      "cosine_similarity_phrase_sentence": 0.7271166443824768,
+      "cosine_similarity_phrase_minus_phrase": 0.6917745471000671,
+      "cosine_similarity_delta": 0.03534209728240967,
+      "cosine_similarity_phrase_left": 0.6560856699943542,
+      "cosine_similarity_phrase_right": 0.7257826924324036,
+      "cosine_similarity_phrase_local": 0.7595499753952026,
+      "contrast_delta_left": 0.07103097438812256,
+      "contrast_delta_right": 0.0013339519500732422,
+      "idiomaticity_score_composite": 0.035762280225753784,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 6040754
+    },
+    "line_index": 6040754
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "You're here to offer your succinct wisdom like pearls before swine.",
+        "matched_sentence": "I don't doubt there's a big brownie point on your chart in heaven.",
+        "next_sentence": "LEROY, GOLD STAR.",
+        "seq.in": "I don ' t doubt there ' s a big brownie point on your chart in heaven .",
+        "seq.out": "O O O O O O O O O O B-idiom I-idiom O O O O O O",
+        "seq.pos": "PRP VBP '' JJ NN EX '' NN DT JJ NN NN IN PRP$ NN IN NN .",
+        "cos_sim_prev_matched": 0.7297438979148865,
+        "cos_sim_matched_next": 0.5422695279121399
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "I don't doubt there's a big brownie point on your chart in heaven.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "i",
+        "don",
+        "##t",
+        "doubt",
+        "there",
+        "##s",
+        "a",
+        "big",
+        "brown",
+        "##ie",
+        "point",
+        "on",
+        "your",
+        "chart",
+        "in",
+        "heaven"
+      ],
+      "idiom_token_span": [
+        8,
+        9,
+        10
+      ],
+      "sentence_token_count": 16,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.5,
+      "cosine_similarity_phrase_sentence": 0.8199160099029541,
+      "cosine_similarity_phrase_minus_phrase": 0.7179019451141357,
+      "cosine_similarity_delta": 0.10201406478881836,
+      "cosine_similarity_phrase_left": 0.6226257681846619,
+      "cosine_similarity_phrase_right": 0.7281113862991333,
+      "cosine_similarity_phrase_local": 0.7483895421028137,
+      "contrast_delta_left": 0.19729024171829224,
+      "contrast_delta_right": 0.0918046236038208,
+      "idiomaticity_score_composite": 0.12328074872493744,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 6190200
+    },
+    "line_index": 6190200
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "Every religion show the separation KW:aviva multicar insurance Or anything else you can also save money if he just refuse to move about 1km down the dublin Operate or allow anyone with a single sitting Ford fusion hybrid (34 mpg overall, 36 mpg highway); toyota camry 1997 honda accord ex 4dr sedan (2 I've become enraged because this is not the kalumburu road and west virginia KW:prince albert insurance Gosport, hampshire?",
+        "matched_sentence": "what number do i proceed for an extra brownie point if they are posted.",
+        "next_sentence": "\"might lesson the hard work and dedication Be subject to change their coverage policies Limit (such as fuel delivery, vehicle getting repaired or negotiating the deal Selling a life insurance from aviva exclusively for that loan.",
+        "seq.in": "what number do i proceed for an extra brownie point if they are posted .",
+        "seq.out": "O O O O O O O O B-idiom I-idiom O O O O O",
+        "seq.pos": "WP NN VBP NNS VB IN DT JJ NN NN IN PRP VBP VBN .",
+        "cos_sim_prev_matched": 0.7408475279808044,
+        "cos_sim_matched_next": 0.7595545053482056
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "what number do i proceed for an extra brownie point if they are posted.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "what",
+        "number",
+        "do",
+        "i",
+        "proceed",
+        "for",
+        "an",
+        "extra",
+        "brown",
+        "##ie",
+        "point",
+        "if",
+        "they",
+        "are",
+        "posted"
+      ],
+      "idiom_token_span": [
+        8,
+        9,
+        10
+      ],
+      "sentence_token_count": 15,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.5333,
+      "cosine_similarity_phrase_sentence": 0.7825855612754822,
+      "cosine_similarity_phrase_minus_phrase": 0.6716880202293396,
+      "cosine_similarity_delta": 0.11089754104614258,
+      "cosine_similarity_phrase_left": 0.6806544661521912,
+      "cosine_similarity_phrase_right": 0.6256864666938782,
+      "cosine_similarity_phrase_local": 0.7047773599624634,
+      "contrast_delta_left": 0.10193109512329102,
+      "contrast_delta_right": 0.156899094581604,
+      "idiomaticity_score_composite": 0.12015631794929504,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 6399493
+    },
+    "line_index": 6399493
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "Hence, the source of income of bloggers is no way influenced by their opinions.",
+        "matched_sentence": "That’s a real brownie point for bloggers.",
+        "next_sentence": "This is also the reason why media repeatedly portrays blogs are amateurs; because they enter their basion of “educating people” which was their sole preserve previously.",
+        "seq.in": "That ’ s a real brownie point for bloggers .",
+        "seq.out": "O O O O O B-idiom I-idiom O O O",
+        "seq.pos": "DT VBZ VBZ DT JJ NN NN IN NNS .",
+        "cos_sim_prev_matched": 0.7148470878601074,
+        "cos_sim_matched_next": 0.7428739666938782
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "That’s a real brownie point for bloggers.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "that",
+        "’",
+        "s",
+        "a",
+        "real",
+        "brown",
+        "##ie",
+        "point",
+        "for",
+        "blogger",
+        "##s"
+      ],
+      "idiom_token_span": [
+        5,
+        6,
+        7
+      ],
+      "sentence_token_count": 11,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.4545,
+      "cosine_similarity_phrase_sentence": 0.8359717130661011,
+      "cosine_similarity_phrase_minus_phrase": 0.6953978538513184,
+      "cosine_similarity_delta": 0.14057385921478271,
+      "cosine_similarity_phrase_left": 0.6138026118278503,
+      "cosine_similarity_phrase_right": 0.6696791052818298,
+      "cosine_similarity_phrase_local": 0.7147254943847656,
+      "contrast_delta_left": 0.22216910123825073,
+      "contrast_delta_right": 0.16629260778427124,
+      "idiomaticity_score_composite": 0.16740235686302185,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 7360427
+    },
+    "line_index": 7360427
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "This is momentous, for reasons I will now explain.",
+        "matched_sentence": "The image above is my typical Brownie Point counter.",
+        "next_sentence": "You will note that it is negative.",
+        "seq.in": "The image above is my typical Brownie Point counter .",
+        "seq.out": "O O O O O O B-idiom I-idiom O O",
+        "seq.pos": "DT NN NN VBZ PRP$ JJ NNP NNP NN .",
+        "cos_sim_prev_matched": 0.6081333756446838,
+        "cos_sim_matched_next": 0.694786548614502
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "The image above is my typical Brownie Point counter.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "the",
+        "image",
+        "above",
+        "is",
+        "my",
+        "typical",
+        "brown",
+        "##ie",
+        "point",
+        "counter"
+      ],
+      "idiom_token_span": [
+        6,
+        7,
+        8
+      ],
+      "sentence_token_count": 10,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.6,
+      "cosine_similarity_phrase_sentence": 0.8074190020561218,
+      "cosine_similarity_phrase_minus_phrase": 0.647852897644043,
+      "cosine_similarity_delta": 0.15956610441207886,
+      "cosine_similarity_phrase_left": 0.5850304961204529,
+      "cosine_similarity_phrase_right": 0.6050882935523987,
+      "cosine_similarity_phrase_local": 0.6705998182296753,
+      "contrast_delta_left": 0.22238850593566895,
+      "contrast_delta_right": 0.20233070850372314,
+      "idiomaticity_score_composite": 0.18596285581588745,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 2200355
+    },
+    "line_index": 2200355
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "So, it can prove to be the perfect keyword buddy that your business needs.",
+        "matched_sentence": "So, that’s another brownie point for Moz.",
+        "next_sentence": "Webmasters can consider this tool in conjunction with Semrush to track the consistency across different platforms.",
+        "seq.in": "So , that ’ s another brownie point for Moz .",
+        "seq.out": "O O O O O O B-idiom I-idiom O O O",
+        "seq.pos": "RB , IN NNP VBD DT NN NN IN NNP .",
+        "cos_sim_prev_matched": 0.6985557675361633,
+        "cos_sim_matched_next": 0.6120263934135437
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "So, that’s another brownie point for Moz.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "so",
+        "that",
+        "’",
+        "s",
+        "another",
+        "brown",
+        "##ie",
+        "point",
+        "for",
+        "mo",
+        "##z"
+      ],
+      "idiom_token_span": [
+        5,
+        6,
+        7
+      ],
+      "sentence_token_count": 11,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.4545,
+      "cosine_similarity_phrase_sentence": 0.839089035987854,
+      "cosine_similarity_phrase_minus_phrase": 0.6918147206306458,
+      "cosine_similarity_delta": 0.14727431535720825,
+      "cosine_similarity_phrase_left": 0.5800297260284424,
+      "cosine_similarity_phrase_right": 0.6441333889961243,
+      "cosine_similarity_phrase_local": 0.6995769143104553,
+      "contrast_delta_left": 0.2590593099594116,
+      "contrast_delta_right": 0.19495564699172974,
+      "idiomaticity_score_composite": 0.18714089691638947,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 7408236
+    },
+    "line_index": 7408236
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "",
+        "matched_sentence": "To ensure that the brownie point balance was kept in check, I did not plan a multi-day SOTA adventure this Easter.",
+        "next_sentence": "I did, however, get leave to activate three summits near Ballarat, all which I had activated before.",
+        "seq.in": "To ensure that the brownie point balance was kept in check , I did not plan a multi - day SOTA adventure this Easter .",
+        "seq.out": "O O O O B-idiom I-idiom O O O O O O O O O O O O O O O O O O O",
+        "seq.pos": "TO VB IN DT NN NN NN VBD VBN IN NN , PRP VBD RB VB DT JJ : NN NNP NN DT NNP .",
+        "cos_sim_prev_matched": null,
+        "cos_sim_matched_next": 0.7984049916267395
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "To ensure that the brownie point balance was kept in check, I did not plan a multi-day SOTA adventure this Easter.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "to",
+        "ensure",
+        "that",
+        "the",
+        "brown",
+        "##ie",
+        "point",
+        "balance",
+        "was",
+        "kept",
+        "in",
+        "check",
+        "i",
+        "did",
+        "not",
+        "plan",
+        "a",
+        "multi",
+        "##day",
+        "so",
+        "##ta",
+        "adventure",
+        "this",
+        "easter"
+      ],
+      "idiom_token_span": [
+        4,
+        5,
+        6
+      ],
+      "sentence_token_count": 24,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.1667,
+      "cosine_similarity_phrase_sentence": 0.7900768518447876,
+      "cosine_similarity_phrase_minus_phrase": 0.7221364378929138,
+      "cosine_similarity_delta": 0.06794041395187378,
+      "cosine_similarity_phrase_left": 0.5024089217185974,
+      "cosine_similarity_phrase_right": 0.764668881893158,
+      "cosine_similarity_phrase_local": 0.7045037746429443,
+      "contrast_delta_left": 0.2876679301261902,
+      "contrast_delta_right": 0.02540796995162964,
+      "idiomaticity_score_composite": 0.11223918199539185,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 7441226
+    },
+    "line_index": 7441226
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "Very rarely, however 'cos the dressing rooms, and more importantly, the bar were closed and we had to change in the open and die of thirst.",
+        "matched_sentence": "Another brownie point for the organiser I don't think.",
+        "next_sentence": "Tav had somehow managed to gether together a collection of Crown Prosection reprobates to play a 20 over game against us that evening.",
+        "seq.in": "Another brownie point for the organiser I don ' t think .",
+        "seq.out": "O B-idiom I-idiom O O O O O O O O O",
+        "seq.pos": "DT NN NN IN DT NN PRP VBP '' JJ NN .",
+        "cos_sim_prev_matched": 0.7032231092453003,
+        "cos_sim_matched_next": 0.7503520846366882
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "Another brownie point for the organiser I don't think.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "another",
+        "brown",
+        "##ie",
+        "point",
+        "for",
+        "the",
+        "organise",
+        "##r",
+        "i",
+        "don",
+        "##t",
+        "think"
+      ],
+      "idiom_token_span": [
+        1,
+        2,
+        3
+      ],
+      "sentence_token_count": 12,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.0833,
+      "cosine_similarity_phrase_sentence": 0.8136810660362244,
+      "cosine_similarity_phrase_minus_phrase": 0.6623655557632446,
+      "cosine_similarity_delta": 0.15131551027297974,
+      "cosine_similarity_phrase_left": 0.43358299136161804,
+      "cosine_similarity_phrase_right": 0.7360054850578308,
+      "cosine_similarity_phrase_local": 0.7317820191383362,
+      "contrast_delta_left": 0.3800980746746063,
+      "contrast_delta_right": 0.07767558097839355,
+      "idiomaticity_score_composite": 0.19010116904973984,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 7537029
+    },
+    "line_index": 7537029
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "The truth is you really don't care what I have to say.",
+        "matched_sentence": "You just need to be SEEN to care by women to get that pat on the head and a couple brownie point from women seeing as you're on of many men who fear confrontation with females.",
+        "next_sentence": "You also desperately need their approval.",
+        "seq.in": "You just need to be SEEN to care by women to get that pat on the head and a couple brownie point from women seeing as you ' re on of many men who fear confrontation with females .",
+        "seq.out": "O O O O O O O O O O O O O O O O O O O O B-idiom I-idiom O O O O O O O O O O O O O O O O O",
+        "seq.pos": "PRP RB VB TO VB NNP TO VB IN NNS TO VB DT NN IN DT NN CC DT NN NN NN IN NNS VBG IN PRP '' VB IN IN JJ NNS WP VBP NN IN NNS .",
+        "cos_sim_prev_matched": 0.6331949234008789,
+        "cos_sim_matched_next": 0.6946655511856079
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "You just need to be SEEN to care by women to get that pat on the head and a couple brownie point from women seeing as you're on of many men who fear confrontation with females.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "you",
+        "just",
+        "need",
+        "to",
+        "be",
+        "seen",
+        "to",
+        "care",
+        "by",
+        "women",
+        "to",
+        "get",
+        "that",
+        "pat",
+        "on",
+        "the",
+        "head",
+        "and",
+        "a",
+        "couple",
+        "brown",
+        "##ie",
+        "point",
+        "from",
+        "women",
+        "seeing",
+        "as",
+        "your",
+        "##e",
+        "on",
+        "of",
+        "many",
+        "men",
+        "who",
+        "fear",
+        "confrontation",
+        "with",
+        "females"
+      ],
+      "idiom_token_span": [
+        20,
+        21,
+        22
+      ],
+      "sentence_token_count": 38,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.5263,
+      "cosine_similarity_phrase_sentence": 0.7574378252029419,
+      "cosine_similarity_phrase_minus_phrase": 0.7075493931770325,
+      "cosine_similarity_delta": 0.049888432025909424,
+      "cosine_similarity_phrase_left": 0.732279360294342,
+      "cosine_similarity_phrase_right": 0.7082763910293579,
+      "cosine_similarity_phrase_local": 0.7926416397094727,
+      "contrast_delta_left": 0.025158464908599854,
+      "contrast_delta_right": 0.049161434173583984,
+      "idiomaticity_score_composite": 0.04352419078350067,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 7714218
+    },
+    "line_index": 7714218
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "If you’re an avid follower of GBBO and fancy your chances of making a decent Red Velvet in the kitchen then this could be really romantic.",
+        "matched_sentence": "Not just that, it will show her you’re not afraid to get in the kitchen and get your hands dirty, an instant brownie point (no pun intended).",
+        "next_sentence": "This will still involve saying those magic words, but flowers are such an easy way to our heart.",
+        "seq.in": "Not just that , it will show her you ’ re not afraid to get in the kitchen and get your hands dirty , an instant brownie point ( no pun intended ) .",
+        "seq.out": "O O O O O O O O O O O O O O O O O O O B-idiom I-idiom I-idiom I-idiom O O O B-idiom I-idiom O O O O O O",
+        "seq.pos": "RB RB IN , PRP MD VB PRP$ PRP VBP VB RB VBN TO VB IN DT NN CC VB PRP$ NNS NN , DT JJ NN NN ( DT NN VBN ) .",
+        "cos_sim_prev_matched": 0.8275365233421326,
+        "cos_sim_matched_next": 0.7466064095497131
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "Not just that, it will show her you’re not afraid to get in the kitchen and get your hands dirty, an instant brownie point (no pun intended).",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "not",
+        "just",
+        "that",
+        "it",
+        "will",
+        "show",
+        "her",
+        "you",
+        "’",
+        "re",
+        "not",
+        "afraid",
+        "to",
+        "get",
+        "in",
+        "the",
+        "kitchen",
+        "and",
+        "get",
+        "your",
+        "hands",
+        "dirty",
+        "an",
+        "instant",
+        "brown",
+        "##ie",
+        "point",
+        "no",
+        "pun",
+        "intended"
+      ],
+      "idiom_token_span": [
+        24,
+        25,
+        26
+      ],
+      "sentence_token_count": 30,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.8,
+      "cosine_similarity_phrase_sentence": 0.750058650970459,
+      "cosine_similarity_phrase_minus_phrase": 0.6818040013313293,
+      "cosine_similarity_delta": 0.06825464963912964,
+      "cosine_similarity_phrase_left": 0.6076944470405579,
+      "cosine_similarity_phrase_right": 0.5742637515068054,
+      "cosine_similarity_phrase_local": 0.6896871328353882,
+      "contrast_delta_left": 0.14236420392990112,
+      "contrast_delta_right": 0.17579489946365356,
+      "idiomaticity_score_composite": 0.11366710066795349,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 7808972
+    },
+    "line_index": 7808972
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "Just like how local audiences identify with the apps with localised names, how would the global audience understand what the app sells just by its name?",
+        "matched_sentence": "Brownie point: In a multi-racial country like Malaysia or Singapore, local slang might not apply to all citizens if the language or dialect is not a common one.",
+        "next_sentence": "Whilst not a definite no-no, it would be helpful for founders to identify the targeted audience and see how certain names would impact them.",
+        "seq.in": "Brownie point : In a multi - racial country like Malaysia or Singapore , local slang might not apply to all citizens if the language or dialect is not a common one .",
+        "seq.out": "B-idiom I-idiom O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O",
+        "seq.pos": "NNP NN : IN DT NN : JJ NN IN NNP CC NNP , JJ NN MD RB VB TO DT NNS IN DT NN CC NN VBZ RB DT JJ CD .",
+        "cos_sim_prev_matched": 0.8023646473884583,
+        "cos_sim_matched_next": 0.7697102427482605
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "Brownie point: In a multi-racial country like Malaysia or Singapore, local slang might not apply to all citizens if the language or dialect is not a common one.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "brown",
+        "##ie",
+        "point",
+        "in",
+        "a",
+        "multi",
+        "##rac",
+        "##ial",
+        "country",
+        "like",
+        "malaysia",
+        "or",
+        "singapore",
+        "local",
+        "slang",
+        "might",
+        "not",
+        "apply",
+        "to",
+        "all",
+        "citizens",
+        "if",
+        "the",
+        "language",
+        "or",
+        "dialect",
+        "is",
+        "not",
+        "a",
+        "common",
+        "one"
+      ],
+      "idiom_token_span": [
+        0,
+        1,
+        2
+      ],
+      "sentence_token_count": 31,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.0,
+      "cosine_similarity_phrase_sentence": 0.6622743606567383,
+      "cosine_similarity_phrase_minus_phrase": 0.5985886454582214,
+      "cosine_similarity_delta": 0.06368571519851685,
+      "cosine_similarity_phrase_left": null,
+      "cosine_similarity_phrase_right": 0.5978618860244751,
+      "cosine_similarity_phrase_local": 0.5978618860244751,
+      "contrast_delta_left": null,
+      "contrast_delta_right": 0.06441247463226318,
+      "idiomaticity_score_composite": 0.2135145664215088,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 8164991
+    },
+    "line_index": 8164991
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "Guess no robbing will take place if you sport your beard in the middle of night.",
+        "matched_sentence": "Another brownie point with the ladies; they need to feel safe.",
+        "next_sentence": "A prime example of beard derived masculinity.",
+        "seq.in": "Another brownie point with the ladies ; they need to feel safe .",
+        "seq.out": "O B-idiom I-idiom O O O O O O O O O O",
+        "seq.pos": "DT NN NN IN DT NNS : PRP VBP TO VB JJ .",
+        "cos_sim_prev_matched": 0.7202805876731873,
+        "cos_sim_matched_next": 0.6667236685752869
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "Another brownie point with the ladies; they need to feel safe.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "another",
+        "brown",
+        "##ie",
+        "point",
+        "with",
+        "the",
+        "ladies",
+        "they",
+        "need",
+        "to",
+        "feel",
+        "safe"
+      ],
+      "idiom_token_span": [
+        1,
+        2,
+        3
+      ],
+      "sentence_token_count": 12,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.0833,
+      "cosine_similarity_phrase_sentence": 0.7850658893585205,
+      "cosine_similarity_phrase_minus_phrase": 0.635246217250824,
+      "cosine_similarity_delta": 0.14981967210769653,
+      "cosine_similarity_phrase_left": 0.4419739842414856,
+      "cosine_similarity_phrase_right": 0.6619546413421631,
+      "cosine_similarity_phrase_local": 0.6730055212974548,
+      "contrast_delta_left": 0.3430919051170349,
+      "contrast_delta_right": 0.12311124801635742,
+      "idiomaticity_score_composite": 0.19146062433719635,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 8470486
+    },
+    "line_index": 8470486
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "So you question my understanding yet offer no support for your own?",
+        "matched_sentence": "They're not baseless claims they're claims based on observation and if they were false you should refute them instead of just pointing them out in some meaningless attempt to win a brownie point?",
+        "next_sentence": "The fact that you don't refute them means they're probably true and if they're not true I don't really give a shit because you've never said anything to the contrary.",
+        "seq.in": "They ' re not baseless claims they ' re claims based on observation and if they were false you should refute them instead of just pointing them out in some meaningless attempt to win a brownie point ?",
+        "seq.out": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-idiom I-idiom O",
+        "seq.pos": "PRP '' NN RB JJ NNS PRP '' NN NNS VBN IN NN CC IN PRP VBD JJ PRP MD VB PRP RB IN RB VBG PRP RP IN DT NN NN TO VB DT NN NN .",
+        "cos_sim_prev_matched": 0.7634446024894714,
+        "cos_sim_matched_next": 0.8154613971710205
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "They're not baseless claims they're claims based on observation and if they were false you should refute them instead of just pointing them out in some meaningless attempt to win a brownie point?",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "they",
+        "##re",
+        "not",
+        "basel",
+        "##ess",
+        "claims",
+        "they",
+        "##re",
+        "claims",
+        "based",
+        "on",
+        "observation",
+        "and",
+        "if",
+        "they",
+        "were",
+        "false",
+        "you",
+        "should",
+        "ref",
+        "##ute",
+        "them",
+        "instead",
+        "of",
+        "just",
+        "pointing",
+        "them",
+        "out",
+        "in",
+        "some",
+        "meaningless",
+        "attempt",
+        "to",
+        "win",
+        "a",
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "idiom_token_span": [
+        35,
+        36,
+        37
+      ],
+      "sentence_token_count": 38,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.9211,
+      "cosine_similarity_phrase_sentence": 0.6836405992507935,
+      "cosine_similarity_phrase_minus_phrase": 0.6285059452056885,
+      "cosine_similarity_delta": 0.05513465404510498,
+      "cosine_similarity_phrase_left": 0.6290130615234375,
+      "cosine_similarity_phrase_right": 0.5993039608001709,
+      "cosine_similarity_phrase_local": 0.7022478580474854,
+      "contrast_delta_left": 0.05462753772735596,
+      "contrast_delta_right": 0.08433663845062256,
+      "idiomaticity_score_composite": 0.06230837106704712,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 8696129
+    },
+    "line_index": 8696129
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "If you don't speak English and your seat is in the wrong and your comming from a all Spanish speaking island…I think someone can figure out how to help instead of the flight attendant that don't have a computer to see where if any empty seats are available, that's not a flight from hell it's a typical everyday event that occurs on every flight!",
+        "matched_sentence": "Look at the scene before you attempt to get a brownie point!",
+        "next_sentence": "Firstly, the boarding process is the fault of the gate agents.",
+        "seq.in": "Look at the scene before you attempt to get a brownie point !",
+        "seq.out": "O O O O O O O O O O B-idiom I-idiom O",
+        "seq.pos": "NN IN DT NN IN PRP VBP TO VB DT NN NN .",
+        "cos_sim_prev_matched": 0.7244749665260315,
+        "cos_sim_matched_next": 0.6833667755126953
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "Look at the scene before you attempt to get a brownie point!",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "look",
+        "at",
+        "the",
+        "scene",
+        "before",
+        "you",
+        "attempt",
+        "to",
+        "get",
+        "a",
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "idiom_token_span": [
+        10,
+        11,
+        12
+      ],
+      "sentence_token_count": 13,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.7692,
+      "cosine_similarity_phrase_sentence": 0.8014243245124817,
+      "cosine_similarity_phrase_minus_phrase": 0.6671980619430542,
+      "cosine_similarity_delta": 0.1342262625694275,
+      "cosine_similarity_phrase_left": 0.691808819770813,
+      "cosine_similarity_phrase_right": 0.5062552094459534,
+      "cosine_similarity_phrase_local": 0.7336541414260864,
+      "contrast_delta_left": 0.1096155047416687,
+      "contrast_delta_right": 0.2951691150665283,
+      "idiomaticity_score_composite": 0.168309286236763,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 8709059
+    },
+    "line_index": 8709059
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "Stupid.",
+        "matched_sentence": "Welcome to my plan, my compromise, my brownie point earning scheme.",
+        "next_sentence": "I decided to take MaxiMe out for a short ride for the first time in forever.",
+        "seq.in": "Welcome to my plan , my compromise , my brownie point earning scheme .",
+        "seq.out": "O O O O O O O O O B-idiom I-idiom O O O",
+        "seq.pos": "UH TO PRP$ NN , PRP$ NN , PRP$ JJ NN VBG NN .",
+        "cos_sim_prev_matched": 0.5128412246704102,
+        "cos_sim_matched_next": 0.5855548977851868
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "Welcome to my plan, my compromise, my brownie point earning scheme.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "welcome",
+        "to",
+        "my",
+        "plan",
+        "my",
+        "compromise",
+        "my",
+        "brown",
+        "##ie",
+        "point",
+        "earning",
+        "scheme"
+      ],
+      "idiom_token_span": [
+        7,
+        8,
+        9
+      ],
+      "sentence_token_count": 12,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.5833,
+      "cosine_similarity_phrase_sentence": 0.8632949590682983,
+      "cosine_similarity_phrase_minus_phrase": 0.769282341003418,
+      "cosine_similarity_delta": 0.09401261806488037,
+      "cosine_similarity_phrase_left": 0.6973704099655151,
+      "cosine_similarity_phrase_right": 0.7285913228988647,
+      "cosine_similarity_phrase_local": 0.7654075026512146,
+      "contrast_delta_left": 0.1659245491027832,
+      "contrast_delta_right": 0.1347036361694336,
+      "idiomaticity_score_composite": 0.12216335535049438,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 908218
+    },
+    "line_index": 908218
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "All of the fruit and veg are organic, and sourced as locally as possible.",
+        "matched_sentence": "The ones that are from abroad are shipped rather than flown – another eco brownie point.",
+        "next_sentence": "The greengrocery shelves are laden with edible flowers, every type of sprouted beans, multi-coloured ‘wild tomatoes’ (£2.79 sale price), and rocket from Barduca agricultural firm in Italy (£2.49/125g).",
+        "seq.in": "The ones that are from abroad are shipped rather than flown – another eco brownie point .",
+        "seq.out": "O O O O O O O O O O O O O O B-idiom I-idiom O",
+        "seq.pos": "DT NNS WDT VBP IN RB VBP VBN RB IN VBN NN DT NN NN NN .",
+        "cos_sim_prev_matched": 0.7008788585662842,
+        "cos_sim_matched_next": 0.8148193359375
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "The ones that are from abroad are shipped rather than flown – another eco brownie point.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "the",
+        "ones",
+        "that",
+        "are",
+        "from",
+        "abroad",
+        "are",
+        "shipped",
+        "rather",
+        "than",
+        "flown",
+        "–",
+        "another",
+        "eco",
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "idiom_token_span": [
+        14,
+        15,
+        16
+      ],
+      "sentence_token_count": 17,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.8235,
+      "cosine_similarity_phrase_sentence": 0.7898173332214355,
+      "cosine_similarity_phrase_minus_phrase": 0.7034581303596497,
+      "cosine_similarity_delta": 0.08635920286178589,
+      "cosine_similarity_phrase_left": 0.6830823421478271,
+      "cosine_similarity_phrase_right": 0.44349098205566406,
+      "cosine_similarity_phrase_local": 0.6913574934005737,
+      "contrast_delta_left": 0.1067349910736084,
+      "contrast_delta_right": 0.3463263511657715,
+      "idiomaticity_score_composite": 0.15644493699073792,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 2452349
+    },
+    "line_index": 2452349
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "I think some of the rooms really need interior renovations.",
+        "matched_sentence": "One Brownie point for the location.",
+        "next_sentence": "You are in walking distance to the mainstation, and the city centre and even a few clubs a reachable by foot.",
+        "seq.in": "One Brownie point for the location .",
+        "seq.out": "O B-idiom I-idiom O O O O",
+        "seq.pos": "CD NNP NN IN DT NN .",
+        "cos_sim_prev_matched": 0.5773465633392334,
+        "cos_sim_matched_next": 0.6557064056396484
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "One Brownie point for the location.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "one",
+        "brown",
+        "##ie",
+        "point",
+        "for",
+        "the",
+        "location"
+      ],
+      "idiom_token_span": [
+        1,
+        2,
+        3
+      ],
+      "sentence_token_count": 7,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.1429,
+      "cosine_similarity_phrase_sentence": 0.8769397735595703,
+      "cosine_similarity_phrase_minus_phrase": 0.6875366568565369,
+      "cosine_similarity_delta": 0.18940311670303345,
+      "cosine_similarity_phrase_left": 0.51922607421875,
+      "cosine_similarity_phrase_right": 0.6848945021629333,
+      "cosine_similarity_phrase_local": 0.7101108431816101,
+      "contrast_delta_left": 0.3577136993408203,
+      "contrast_delta_right": 0.19204527139663696,
+      "idiomaticity_score_composite": 0.23214130103588104,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 9192089
+    },
+    "line_index": 9192089
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "I mean.",
+        "matched_sentence": "Cherry blossoms are pink, already a big Brownie point, then they are a clear symbol for the weather changing now, that the sun kissing us more often and of course it´s getting warmer day by day.",
+        "next_sentence": "So, yes, I love blossoms.",
+        "seq.in": "Cherry blossoms are pink , already a big Brownie point , then they are a clear symbol for the weather changing now , that the sun kissing us more often and of course it ´ s getting warmer day by day .",
+        "seq.out": "O O O O O O O O B-idiom I-idiom O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O",
+        "seq.pos": "NNP NNS VBP JJ , RB DT JJ NNP NN , RB PRP VBP DT JJ NN IN DT NN VBG RB , IN DT NN VBG PRP RBR RB CC IN NN PRP VBZ JJ VBG JJ NN IN NN .",
+        "cos_sim_prev_matched": 0.35011157393455505,
+        "cos_sim_matched_next": 0.6464541554450989
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "Cherry blossoms are pink, already a big Brownie point, then they are a clear symbol for the weather changing now, that the sun kissing us more often and of course it´s getting warmer day by day.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "cherry",
+        "blossoms",
+        "are",
+        "pink",
+        "already",
+        "a",
+        "big",
+        "brown",
+        "##ie",
+        "point",
+        "then",
+        "they",
+        "are",
+        "a",
+        "clear",
+        "symbol",
+        "for",
+        "the",
+        "weather",
+        "changing",
+        "now",
+        "that",
+        "the",
+        "sun",
+        "kissing",
+        "us",
+        "more",
+        "often",
+        "and",
+        "of",
+        "course",
+        "it",
+        "##´s",
+        "getting",
+        "warmer",
+        "day",
+        "by",
+        "day"
+      ],
+      "idiom_token_span": [
+        7,
+        8,
+        9
+      ],
+      "sentence_token_count": 38,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.1842,
+      "cosine_similarity_phrase_sentence": 0.7781839370727539,
+      "cosine_similarity_phrase_minus_phrase": 0.7369189858436584,
+      "cosine_similarity_delta": 0.04126495122909546,
+      "cosine_similarity_phrase_left": 0.7446134090423584,
+      "cosine_similarity_phrase_right": 0.6902744174003601,
+      "cosine_similarity_phrase_local": 0.7556912302970886,
+      "contrast_delta_left": 0.03357052803039551,
+      "contrast_delta_right": 0.0879095196723938,
+      "idiomaticity_score_composite": 0.051002487540245056,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 9252955
+    },
+    "line_index": 9252955
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "There is no magical charisma that the restaurant chef has put into the dish, it’s only the correct recipe and correct ingredients that lead to the mouth-watering dish.",
+        "matched_sentence": "One thing that gives the restaurant chef an extra brownie point is his or her experience, but then everybody has a first time in their life.",
+        "next_sentence": "Expertise comes with repeated preparations wherein the individual undergoes a constant process of improvement.",
+        "seq.in": "One thing that gives the restaurant chef an extra brownie point is his or her experience , but then everybody has a first time in their life .",
+        "seq.out": "O O O O O O O O O B-idiom I-idiom O O O O O O O O O O O O O O O O O",
+        "seq.pos": "CD NN WDT VBZ DT NN NN DT JJ NN NN VBZ PRP$ CC PRP$ NN , CC RB NN VBZ DT JJ NN IN PRP$ NN .",
+        "cos_sim_prev_matched": 0.8077569007873535,
+        "cos_sim_matched_next": 0.758257269859314
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "One thing that gives the restaurant chef an extra brownie point is his or her experience, but then everybody has a first time in their life.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "one",
+        "thing",
+        "that",
+        "gives",
+        "the",
+        "restaurant",
+        "chef",
+        "an",
+        "extra",
+        "brown",
+        "##ie",
+        "point",
+        "is",
+        "his",
+        "or",
+        "her",
+        "experience",
+        "but",
+        "then",
+        "everybody",
+        "has",
+        "a",
+        "first",
+        "time",
+        "in",
+        "their",
+        "life"
+      ],
+      "idiom_token_span": [
+        9,
+        10,
+        11
+      ],
+      "sentence_token_count": 27,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.3333,
+      "cosine_similarity_phrase_sentence": 0.758640706539154,
+      "cosine_similarity_phrase_minus_phrase": 0.6895629167556763,
+      "cosine_similarity_delta": 0.06907778978347778,
+      "cosine_similarity_phrase_left": 0.6513848900794983,
+      "cosine_similarity_phrase_right": 0.6499282717704773,
+      "cosine_similarity_phrase_local": 0.720035970211029,
+      "contrast_delta_left": 0.10725581645965576,
+      "contrast_delta_right": 0.10871243476867676,
+      "idiomaticity_score_composite": 0.08853095769882202,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 9324115
+    },
+    "line_index": 9324115
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "However, it is still in early stages of development.",
+        "matched_sentence": "Mercurial has recently launched version 1 of its Eclipse-based plugin so that is a big brownie point for Mercurial.",
+        "next_sentence": "The primary interface to work with a DCVS is command line.",
+        "seq.in": "Mercurial has recently launched version 1 of its Eclipse - based plugin so that is a big brownie point for Mercurial .",
+        "seq.out": "O O O O O O O O O O O O O O O O O B-idiom I-idiom O O O",
+        "seq.pos": "NNP VBZ RB VBN NN CD IN PRP$ NNP : VBN NN IN DT VBZ DT JJ NN NN IN NNP .",
+        "cos_sim_prev_matched": 0.6221209168434143,
+        "cos_sim_matched_next": 0.7712467312812805
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "Mercurial has recently launched version 1 of its Eclipse-based plugin so that is a big brownie point for Mercurial.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "mer",
+        "##cu",
+        "##rial",
+        "has",
+        "recently",
+        "launched",
+        "version",
+        "1",
+        "of",
+        "its",
+        "eclipse",
+        "##base",
+        "##d",
+        "plug",
+        "##in",
+        "so",
+        "that",
+        "is",
+        "a",
+        "big",
+        "brown",
+        "##ie",
+        "point",
+        "for",
+        "mer",
+        "##cu",
+        "##rial"
+      ],
+      "idiom_token_span": [
+        20,
+        21,
+        22
+      ],
+      "sentence_token_count": 27,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.7407,
+      "cosine_similarity_phrase_sentence": 0.7539275884628296,
+      "cosine_similarity_phrase_minus_phrase": 0.6848664283752441,
+      "cosine_similarity_delta": 0.06906116008758545,
+      "cosine_similarity_phrase_left": 0.7313205003738403,
+      "cosine_similarity_phrase_right": 0.7293784022331238,
+      "cosine_similarity_phrase_local": 0.7928825616836548,
+      "contrast_delta_left": 0.022607088088989258,
+      "contrast_delta_right": 0.02454918622970581,
+      "idiomaticity_score_composite": 0.04631964862346649,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 9482529
+    },
+    "line_index": 9482529
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "Twitter exclusive launch, where we will be translating the offline launch experience, online!!!",
+        "matched_sentence": "Here's another Quickie\"\n\"I did get a brownie point!",
+        "next_sentence": "Well, here's what it is .....Registered members get the chance to WIN XOLO OMEGA!",
+        "seq.in": "Here ' s another Quickie \" \" I did get a brownie point !",
+        "seq.out": "O O O O O O O O O O O B-idiom I-idiom O",
+        "seq.pos": "RB '' JJ DT NNP NNP NNP PRP VBD VB DT NN NN .",
+        "cos_sim_prev_matched": 0.7150121331214905,
+        "cos_sim_matched_next": 0.7454993724822998
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "Here's another Quickie\"\n\"I did get a brownie point!",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "here",
+        "##s",
+        "another",
+        "quick",
+        "##ie",
+        "i",
+        "did",
+        "get",
+        "a",
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "idiom_token_span": [
+        9,
+        10,
+        11
+      ],
+      "sentence_token_count": 12,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.75,
+      "cosine_similarity_phrase_sentence": 0.833561360836029,
+      "cosine_similarity_phrase_minus_phrase": 0.707892656326294,
+      "cosine_similarity_delta": 0.1256687045097351,
+      "cosine_similarity_phrase_left": 0.6168419718742371,
+      "cosine_similarity_phrase_right": 0.48085811734199524,
+      "cosine_similarity_phrase_local": 0.6546730995178223,
+      "contrast_delta_left": 0.216719388961792,
+      "contrast_delta_right": 0.3527032434940338,
+      "idiomaticity_score_composite": 0.205190010368824,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 9597547
+    },
+    "line_index": 9597547
+  },
+  {
+    "matched_idioms": [
+      "brownie point"
+    ],
+    "contexts": [
+      {
+        "previous_sentence": "In big cities like Tokyo, shoe repair shops can be found.",
+        "matched_sentence": "This website and the cited terms and conditions is governed and managed by Brownie Point Cakes amp; Confectioners UAE an establishment registered in the emirate of Dubai, United Arab Emirates.",
+        "next_sentence": "Watch 1 to 120 of 4392 free perverted, pervert sex movies updated hourly with new porn tube.",
+        "seq.in": "This website and the cited terms and conditions is governed and managed by Brownie Point Cakes amp ; Confectioners UAE an establishment registered in the emirate of Dubai , United Arab Emirates .",
+        "seq.out": "O O O O O O O O O O O O O B-idiom I-idiom O O O O O O O O O O O O O O O O O O",
+        "seq.pos": "DT NN CC DT JJ NNS CC NNS VBZ VBN CC VBN IN NNP NNP NNP NN : NNP NNP DT NN VBN IN DT NN IN NNP , NNP NNP NNP .",
+        "cos_sim_prev_matched": 0.6956799030303955,
+        "cos_sim_matched_next": 0.7237576842308044
+      }
+    ],
+    "similarity_metrics": {
+      "phrase": "brownie point",
+      "sentence": "This website and the cited terms and conditions is governed and managed by Brownie Point Cakes amp; Confectioners UAE an establishment registered in the emirate of Dubai, United Arab Emirates.",
+      "starts_with_pos": "NN",
+      "pos_pattern": "NN NN",
+      "phrase_type_guess": "noun phrase",
+      "phrase_tokens": [
+        "brown",
+        "##ie",
+        "point"
+      ],
+      "sentence_tokens": [
+        "this",
+        "website",
+        "and",
+        "the",
+        "cited",
+        "terms",
+        "and",
+        "conditions",
+        "is",
+        "governed",
+        "and",
+        "managed",
+        "by",
+        "brown",
+        "##ie",
+        "point",
+        "cakes",
+        "amp",
+        "con",
+        "##fect",
+        "##ion",
+        "##ers",
+        "uae",
+        "an",
+        "establishment",
+        "registered",
+        "in",
+        "the",
+        "emir",
+        "##ate",
+        "of",
+        "dubai",
+        "united",
+        "arab",
+        "emirates"
+      ],
+      "idiom_token_span": [
+        13,
+        14,
+        15
+      ],
+      "sentence_token_count": 35,
+      "idiom_token_count": 3,
+      "idiom_position_ratio": 0.3714,
+      "cosine_similarity_phrase_sentence": 0.7664539217948914,
+      "cosine_similarity_phrase_minus_phrase": 0.7158476114273071,
+      "cosine_similarity_delta": 0.05060631036758423,
+      "cosine_similarity_phrase_left": 0.597461998462677,
+      "cosine_similarity_phrase_right": 0.6752086877822876,
+      "cosine_similarity_phrase_local": 0.740148663520813,
+      "contrast_delta_left": 0.16899192333221436,
+      "contrast_delta_right": 0.09124523401260376,
+      "idiomaticity_score_composite": 0.09036244451999664,
+      "model": "bert-base-uncased",
+      "embedding_layer_type": "last_4_mean",
+      "match_type": "exact string match",
+      "line_index": 9712524
+    },
+    "line_index": 9712524
+  }
+]
