@@ -7,8 +7,10 @@ The complete collection of files contains 7,713,773 examples of 3209 unique poss
 Without "listen" and "catch", the total remains 6,850,525 with 3207 unique possible idioms.</br>
 
 5 full files have been added to this folder in GoogleDrive. </br>
-https://drive.google.com/drive/folders/1Hf4Q0lIAU6a3HlJ4OwDMSLFqb3wLpkwn?usp=drive_link
-    
+https://drive.google.com/drive/folders/1Hf4Q0lIAU6a3HlJ4OwDMSLFqb3wLpkwn?usp=drive_link </br>
+
+Full Dataset Statistics: </br>
+
 **POS totals**: {'CC': 9002327, 'IN': 27459419, 'DT': 22090500, 'NN': 38705636, 'VBG': 4932331, 'NNP': 19458624, 'NNS': 11763956, 'WDT': 1087759, 'VBP': 6393665, 'JJ': 16908873, 'RB': 9984967, ',': 10743258, 'MD': 2750466, 'VB': 10521993, 'PRP$': 3846351, ':': 3242585, '.': 10137900, 'VBZ': 5443694, 'WRB': 1142320, 'CD': 3917295, 'POS': 514308, 'VBD': 5084171, '(': 873140, ')': 897444, 'VBN': 3987065, 'PDT': 410830, 'UH': 51093, 'FW': 100677, 'TO': 7060856, 'PRP': 10671868, 'JJR': 686925, "''": 1084072, 'RP': 1312239, 'SYM': 92732, 'JJS': 584004, 'NNPS': 212719, 'WP': 891184, '#': 63344, 'RBR': 367229, 'RBS': 136472, 'EX': 367994, '$': 137020, 'WP$': 21326, 'LS': 2773, '``': 8299}</br>
   **Avg. phrase length**: 2.70, median: 3</br>
   **Avg. sentence length**: 31.27, median: 26</br>
