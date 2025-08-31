@@ -1,7 +1,7 @@
 # OSCARPIE
-A very large dataset of potential idiomatic expressions from creative commons OSCAR via CommonCrawl. </br>
-Phrases were matched from a combined list from EPIE, MAGPIE, LIdioms, and FLUTE. In addition to previous and next sentences, </br>
-part of speech, and BIO-lables, additional data has been processed via post-processed BERT output embeddings.</br>
+A very large dataset of Potential Idiomatic Expressions from creative commons OSCAR via CommonCrawl. CCO license @ https://huggingface.co/datasets/oscar-corpus/oscar</br>
+Phrases were matched from a combined vocabulary list from EPIE, MAGPIE, LIdioms, and FLUTE. In addition to previous and next sentences, </br>
+part of speech, and BIO-lables, BERT output embeddings were acquired and post-processed to provide extra pre-calculate semantic relationships.</br>
 This repo is under construction. The data format may also change for clarity. </br> 
 The complete collection of files contains 7,713,773 examples of 3209 unique possible idioms. </br>
 Without "listen" and "catch", the total remains 6,850,525 with 3207 unique possible idioms.</br>
