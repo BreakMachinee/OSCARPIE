@@ -1,5 +1,5 @@
 # OSCARPIE
-A very large dataset of Potential Idiomatic Expressions from creative commons OSCAR via CommonCrawl. CCO license @ https://huggingface.co/datasets/oscar-corpus/oscar</br>
+A very large dataset of Potential Idiomatic Expressions from creative commons OSCAR via CommonCrawl. CC0 license @ https://huggingface.co/datasets/oscar-corpus/oscar</br>
 Phrases were matched from a combined vocabulary list from EPIE, MAGPIE, LIdioms, and FLUTE. In addition to previous and next sentences, </br>
 part of speech, and BIO-lables, BERT output embeddings were acquired and post-processed to provide extra pre-calculate semantic relationships.</br>
 This repo is under construction. The data format may also change for clarity. </br> 
